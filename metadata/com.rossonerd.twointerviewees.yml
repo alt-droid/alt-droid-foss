@@ -1,6 +1,7 @@
 AuthorName: 'maurovanetti'
 Categories:
 - Games
+License: GPL-3.0-only
 CurrentVersion: 1.4
 CurrentVersionCode: 2147483647
 IssueTracker: 'https://github.com/maurovanetti/two-interviewees/issues'

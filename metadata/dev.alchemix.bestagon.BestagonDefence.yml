@@ -1,0 +1,9 @@
+AuthorName: 'Greenfoot5'
+Categories:
+- Games
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/Greenfoot5/Bestagon-Defence/issues'
+Name: Bestagon Defence
+SourceCode: 'https://github.com/Greenfoot5/Bestagon-Defence'
+Summary: 'A tower defence game of hexagons with roguelike elements. Made using Unity and Inkscape'
+WebSite: 'https://greenfoot5.itch.io/bestagon-defence'

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1687810188000,
+    "timestamp": 1687813421000,
     "version": 20001,
     "name": "Alt-Droid",
     "icon": "icon.png",
@@ -13,20 +13,37 @@
   },
   "apps": [
     {
+      "authorName": "Greenfoot5",
+      "categories": [
+        "Games"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/Greenfoot5/Bestagon-Defence/issues",
+      "license": "Unknown",
+      "name": "Bestagon Defence",
+      "sourceCode": "https://github.com/Greenfoot5/Bestagon-Defence",
+      "summary": "A tower defence game of hexagons with roguelike elements. Made using Unity and Inkscape",
+      "webSite": "https://greenfoot5.itch.io/bestagon-defence",
+      "added": 1687813421000,
+      "icon": "dev.alchemix.bestagon.BestagonDefence.1.png",
+      "packageName": "dev.alchemix.bestagon.BestagonDefence",
+      "lastUpdated": 1687813421000
+    },
+    {
       "authorName": "CytopiaTeam",
       "categories": [
         "Games"
       ],
       "suggestedVersionCode": "2147483647",
       "issueTracker": "https://github.com/CytopiaTeam/Cytopia/issues",
-      "license": "Unknown",
+      "license": "GPL-3.0-only",
       "name": "Cytopia",
       "sourceCode": "https://github.com/CytopiaTeam/Cytopia",
       "summary": "A city building simulation game",
       "webSite": "https://www.cytopia.net/",
-      "added": 1687810187000,
+      "added": 1687813419000,
       "packageName": "com.cytopia.cytopia",
-      "lastUpdated": 1687810187000
+      "lastUpdated": 1687813419000
     },
     {
       "authorName": "philj56",
@@ -41,10 +58,10 @@
       "sourceCode": "https://github.com/philj56/gbcc-android/",
       "summary": "Android front end to gbcc",
       "webSite": "https://github.com/philj56/gbcc-android/",
-      "added": 1687810188000,
+      "added": 1687813420000,
       "icon": "com.philj56.gbcc.debug.41.png",
       "packageName": "com.philj56.gbcc.debug",
-      "lastUpdated": 1687810188000
+      "lastUpdated": 1687813420000
     },
     {
       "authorName": "CenTdemeern1",
@@ -53,14 +70,14 @@
       ],
       "suggestedVersionCode": "2147483647",
       "issueTracker": "https://github.com/CenTdemeern1/HaachamaWare/issues",
-      "license": "Unknown",
+      "license": "GPL-3.0-only",
       "name": "HaachamaWare",
       "sourceCode": "https://github.com/CenTdemeern1/HaachamaWare",
       "summary": "HaachamaWare: The Game!",
       "webSite": "https://centdemeern1.itch.io/haachamaware",
-      "added": 1687810187000,
+      "added": 1687813418000,
       "packageName": "com.centdemeern1.HaachamaWare",
-      "lastUpdated": 1687810187000
+      "lastUpdated": 1687813418000
     },
     {
       "authorName": "BaronKiko",
@@ -71,15 +88,15 @@
       "suggestedVersionName": "4.0.3",
       "suggestedVersionCode": "2147483647",
       "issueTracker": "https://github.com/BaronKiko/LauncherHijack/issues",
-      "license": "Unknown",
+      "license": "GPL-3.0-only",
       "name": "Launcher Hijack",
       "sourceCode": "https://github.com/BaronKiko/LauncherHijack",
       "summary": "A small Android application to circumvent the default Amazon Fire launcher",
       "webSite": "https://github.com/BaronKiko/LauncherHijack",
-      "added": 1687810186000,
+      "added": 1687813417000,
       "icon": "com.baronkiko.launcherhijack.43.png",
       "packageName": "com.baronkiko.launcherhijack",
-      "lastUpdated": 1687810186000
+      "lastUpdated": 1687813417000
     },
     {
       "authorName": "maurovanetti",
@@ -89,21 +106,21 @@
       "suggestedVersionName": "1.4",
       "suggestedVersionCode": "2147483647",
       "issueTracker": "https://github.com/maurovanetti/two-interviewees/issues",
-      "license": "Unknown",
+      "license": "GPL-3.0-only",
       "name": "Two Interviewees",
       "sourceCode": "https://github.com/maurovanetti/two-interviewees",
       "summary": "Two Interviewees, a short open-source visual novel about the gender gap",
       "webSite": "https://maurovanetti.itch.io/2i",
-      "added": 1687810188000,
+      "added": 1687813420000,
       "icon": "com.rossonerd.twointerviewees.140.png",
       "packageName": "com.rossonerd.twointerviewees",
-      "lastUpdated": 1687810188000
+      "lastUpdated": 1687813420000
     }
   ],
   "packages": {
     "com.baronkiko.launcherhijack": [
       {
-        "added": 1687810186000,
+        "added": 1687813417000,
         "apkName": "com.baronkiko.launcherhijack_43.apk",
         "hash": "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4",
         "hashType": "sha256",
@@ -137,7 +154,7 @@
     ],
     "com.centdemeern1.HaachamaWare": [
       {
-        "added": 1687810187000,
+        "added": 1687813418000,
         "apkName": "com.centdemeern1.HaachamaWare_1.apk",
         "hash": "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d",
         "hashType": "sha256",
@@ -157,7 +174,7 @@
     ],
     "com.cytopia.cytopia": [
       {
-        "added": 1687810187000,
+        "added": 1687813419000,
         "apkName": "com.cytopia.cytopia_1.apk",
         "hash": "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce",
         "hashType": "sha256",
@@ -188,7 +205,7 @@
     ],
     "com.philj56.gbcc.debug": [
       {
-        "added": 1687810188000,
+        "added": 1687813420000,
         "apkName": "com.philj56.gbcc.debug_41.apk",
         "features": [
           "android.hardware.screen.landscape"
@@ -227,7 +244,7 @@
     ],
     "com.rossonerd.twointerviewees": [
       {
-        "added": 1687810188000,
+        "added": 1687813420000,
         "apkName": "com.rossonerd.twointerviewees_140.apk",
         "features": [
           "android.hardware.touchscreen"
@@ -268,6 +285,40 @@
         ],
         "versionCode": 140,
         "versionName": "1.4"
+      }
+    ],
+    "dev.alchemix.bestagon.BestagonDefence": [
+      {
+        "added": 1687813421000,
+        "apkName": "dev.alchemix.bestagon.BestagonDefence_1.apk",
+        "hash": "44f92dd0fab5c864435091df02392efd471a3737b67545075d25d2bdfb6d5c77",
+        "hashType": "sha256",
+        "minSdkVersion": 22,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "dev.alchemix.bestagon.BestagonDefence",
+        "sig": "133dc403c5575ddfab24463991c465ef",
+        "signer": "bdac77f14f9c3ff697f8bf73792701f0dad1f2dd76dc0cba0f62c82a5721a131",
+        "size": 67863154,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "1.1-alpha.11"
       }
     ]
   }

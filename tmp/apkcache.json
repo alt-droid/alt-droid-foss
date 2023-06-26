@@ -52,7 +52,7 @@
     "size": 1590776,
     "apkName": "com.baronkiko.launcherhijack_43.apk",
     "icon": "com.baronkiko.launcherhijack.43.png",
-    "added": 1687833677.35633
+    "added": 1687835386.207914
   },
   "com.centdemeern1.HaachamaWare_1.apk": {
     "hash": "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d",
@@ -77,7 +77,7 @@
     "signer": "1b83c49cf87b871633483373b0f13a14b48d60a2ae9cd4e1c645aad5679e9fc6",
     "size": 42427706,
     "apkName": "com.centdemeern1.HaachamaWare_1.apk",
-    "added": 1687833678.259362
+    "added": 1687835387.103503
   },
   "com.cytopia.cytopia_1.apk": {
     "hash": "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce",
@@ -112,7 +112,7 @@
     "signer": "9e6e56517395e96261c829beb3d6f938167d65b8c943def14a63eb71b7a1b2fe",
     "size": 68732941,
     "apkName": "com.cytopia.cytopia_1.apk",
-    "added": 1687833678.784418
+    "added": 1687835387.654028
   },
   "com.philj56.gbcc.debug_41.apk": {
     "hash": "03819e19c986dadce377b9fe1a1927643116697385632e83f85af19768ae3e78",
@@ -169,6 +169,62 @@
     "size": 8064149,
     "apkName": "com.philj56.gbcc.debug_41.apk",
     "icon": "com.philj56.gbcc.debug.41.png",
-    "added": 1687833679.592602
+    "added": 1687835388.438392
+  },
+  "com.rossonerd.twointerviewees_140.apk": {
+    "hash": "64150201389ec235b56042c502abe60bf15207817213c3fa96bc10ec0bd2058f",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.touchscreen"
+    ],
+    "icons_src": {
+      "160": "res/drawable/icon.png",
+      "-1": "res/drawable/icon.png"
+    },
+    "icons": {
+      "160": "com.rossonerd.twointerviewees.140.png",
+      "480": "com.rossonerd.twointerviewees.140.png",
+      "0": "com.rossonerd.twointerviewees.140.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.rossonerd.twointerviewees",
+    "versionCode": 140,
+    "name": "Two Interviewees",
+    "versionName": "1.4",
+    "minSdkVersion": 10,
+    "targetSdkVersion": 14,
+    "nativecode": [
+      "armeabi",
+      "x86"
+    ],
+    "sig": "49971abf04ff4d601e63e6576f6380eb",
+    "signer": "addeffa42862ee5448c2e100bc7252d4f00f2907dc7a576200996631ace53dee",
+    "size": 42331407,
+    "apkName": "com.rossonerd.twointerviewees_140.apk",
+    "icon": "com.rossonerd.twointerviewees.140.png",
+    "added": 1687835388.990475
   }
 }

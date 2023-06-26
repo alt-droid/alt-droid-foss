@@ -6,13 +6,9 @@
     "--pretty"
   ],
   "fdroiddata": {
-    "commitId": "f09a30853ba8942e88a041fe5feda992351fac82",
+    "commitId": "d352f4916f65872f0d924326c02e872d5c6e4c61",
     "isDirty": true,
     "modifiedFiles": [
-      "metadata/com.baronkiko.launcherhijack.yml",
-      "metadata/com.centdemeern1.HaachamaWare.yml",
-      "metadata/com.philj56.gbcc.debug.yml",
-      "repo/categories.txt",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.html",
@@ -20,14 +16,20 @@
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json",
-      "tmp/apkcache.json",
-      "update.sh"
+      "tmp/apkcache.json"
     ],
     "untrackedFiles": [
-      "metadata/com.cytopia.cytopia.yml",
-      "repo/com.cytopia.cytopia_1.apk"
+      "metadata/com.rossonerd.twointerviewees.yml",
+      "repo/com.rossonerd.twointerviewees_140.apk",
+      "repo/icons-120/com.rossonerd.twointerviewees.140.png",
+      "repo/icons-160/com.rossonerd.twointerviewees.140.png",
+      "repo/icons-240/com.rossonerd.twointerviewees.140.png",
+      "repo/icons-320/com.rossonerd.twointerviewees.140.png",
+      "repo/icons-480/com.rossonerd.twointerviewees.140.png",
+      "repo/icons-640/com.rossonerd.twointerviewees.140.png",
+      "repo/icons/com.rossonerd.twointerviewees.140.png"
     ]
   },
-  "startTimestamp": 1687837276000,
+  "startTimestamp": 1687838985000,
   "subcommand": "update"
 }

@@ -1,0 +1,10 @@
+AuthorName: 'maurovanetti'
+Categories:
+- Games
+CurrentVersion: 1.4
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/maurovanetti/two-interviewees/issues'
+Name: Two Interviewees
+SourceCode: 'https://github.com/maurovanetti/two-interviewees'
+Summary: 'Two Interviewees, a short open-source visual novel about the gender gap'
+WebSite: 'https://maurovanetti.itch.io/2i'

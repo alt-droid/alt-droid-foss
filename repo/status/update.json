@@ -9,16 +9,12 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1687808481546,
+  "endTimestamp": 1687810190943,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "f09a30853ba8942e88a041fe5feda992351fac82",
+    "commitId": "d352f4916f65872f0d924326c02e872d5c6e4c61",
     "isDirty": true,
     "modifiedFiles": [
-      "metadata/com.baronkiko.launcherhijack.yml",
-      "metadata/com.centdemeern1.HaachamaWare.yml",
-      "metadata/com.philj56.gbcc.debug.yml",
-      "repo/categories.txt",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.html",
@@ -26,12 +22,18 @@
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json",
-      "tmp/apkcache.json",
-      "update.sh"
+      "tmp/apkcache.json"
     ],
     "untrackedFiles": [
-      "metadata/com.cytopia.cytopia.yml",
-      "repo/com.cytopia.cytopia_1.apk"
+      "metadata/com.rossonerd.twointerviewees.yml",
+      "repo/com.rossonerd.twointerviewees_140.apk",
+      "repo/icons-120/com.rossonerd.twointerviewees.140.png",
+      "repo/icons-160/com.rossonerd.twointerviewees.140.png",
+      "repo/icons-240/com.rossonerd.twointerviewees.140.png",
+      "repo/icons-320/com.rossonerd.twointerviewees.140.png",
+      "repo/icons-480/com.rossonerd.twointerviewees.140.png",
+      "repo/icons-640/com.rossonerd.twointerviewees.140.png",
+      "repo/icons/com.rossonerd.twointerviewees.140.png"
     ]
   },
   "jarsigner": "/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/jarsigner",
@@ -40,20 +42,23 @@
     "com.baronkiko.launcherhijack",
     "com.centdemeern1.HaachamaWare",
     "com.cytopia.cytopia",
-    "com.philj56.gbcc.debug"
+    "com.philj56.gbcc.debug",
+    "com.rossonerd.twointerviewees"
   ],
   "noPackages": [
     "com.baronkiko.launcherhijack",
     "com.centdemeern1.HaachamaWare",
     "com.cytopia.cytopia",
-    "com.philj56.gbcc.debug"
+    "com.philj56.gbcc.debug",
+    "com.rossonerd.twointerviewees"
   ],
   "noUpdateCheck": [
     "com.baronkiko.launcherhijack",
     "com.centdemeern1.HaachamaWare",
     "com.cytopia.cytopia",
-    "com.philj56.gbcc.debug"
+    "com.philj56.gbcc.debug",
+    "com.rossonerd.twointerviewees"
   ],
-  "startTimestamp": 1687837276000,
+  "startTimestamp": 1687838985000,
   "subcommand": "update"
 }

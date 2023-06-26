@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1687808479000,
+    "timestamp": 1687810188000,
     "version": 20001,
     "name": "Alt-Droid",
     "icon": "icon.png",
@@ -24,9 +24,9 @@
       "sourceCode": "https://github.com/CytopiaTeam/Cytopia",
       "summary": "A city building simulation game",
       "webSite": "https://www.cytopia.net/",
-      "added": 1687808478000,
+      "added": 1687810187000,
       "packageName": "com.cytopia.cytopia",
-      "lastUpdated": 1687808478000
+      "lastUpdated": 1687810187000
     },
     {
       "authorName": "philj56",
@@ -41,10 +41,10 @@
       "sourceCode": "https://github.com/philj56/gbcc-android/",
       "summary": "Android front end to gbcc",
       "webSite": "https://github.com/philj56/gbcc-android/",
-      "added": 1687808479000,
+      "added": 1687810188000,
       "icon": "com.philj56.gbcc.debug.41.png",
       "packageName": "com.philj56.gbcc.debug",
-      "lastUpdated": 1687808479000
+      "lastUpdated": 1687810188000
     },
     {
       "authorName": "CenTdemeern1",
@@ -58,9 +58,9 @@
       "sourceCode": "https://github.com/CenTdemeern1/HaachamaWare",
       "summary": "HaachamaWare: The Game!",
       "webSite": "https://centdemeern1.itch.io/haachamaware",
-      "added": 1687808478000,
+      "added": 1687810187000,
       "packageName": "com.centdemeern1.HaachamaWare",
-      "lastUpdated": 1687808478000
+      "lastUpdated": 1687810187000
     },
     {
       "authorName": "BaronKiko",
@@ -76,16 +76,34 @@
       "sourceCode": "https://github.com/BaronKiko/LauncherHijack",
       "summary": "A small Android application to circumvent the default Amazon Fire launcher",
       "webSite": "https://github.com/BaronKiko/LauncherHijack",
-      "added": 1687808477000,
+      "added": 1687810186000,
       "icon": "com.baronkiko.launcherhijack.43.png",
       "packageName": "com.baronkiko.launcherhijack",
-      "lastUpdated": 1687808477000
+      "lastUpdated": 1687810186000
+    },
+    {
+      "authorName": "maurovanetti",
+      "categories": [
+        "Games"
+      ],
+      "suggestedVersionName": "1.4",
+      "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/maurovanetti/two-interviewees/issues",
+      "license": "Unknown",
+      "name": "Two Interviewees",
+      "sourceCode": "https://github.com/maurovanetti/two-interviewees",
+      "summary": "Two Interviewees, a short open-source visual novel about the gender gap",
+      "webSite": "https://maurovanetti.itch.io/2i",
+      "added": 1687810188000,
+      "icon": "com.rossonerd.twointerviewees.140.png",
+      "packageName": "com.rossonerd.twointerviewees",
+      "lastUpdated": 1687810188000
     }
   ],
   "packages": {
     "com.baronkiko.launcherhijack": [
       {
-        "added": 1687808477000,
+        "added": 1687810186000,
         "apkName": "com.baronkiko.launcherhijack_43.apk",
         "hash": "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4",
         "hashType": "sha256",
@@ -119,7 +137,7 @@
     ],
     "com.centdemeern1.HaachamaWare": [
       {
-        "added": 1687808478000,
+        "added": 1687810187000,
         "apkName": "com.centdemeern1.HaachamaWare_1.apk",
         "hash": "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d",
         "hashType": "sha256",
@@ -139,7 +157,7 @@
     ],
     "com.cytopia.cytopia": [
       {
-        "added": 1687808478000,
+        "added": 1687810187000,
         "apkName": "com.cytopia.cytopia_1.apk",
         "hash": "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce",
         "hashType": "sha256",
@@ -170,7 +188,7 @@
     ],
     "com.philj56.gbcc.debug": [
       {
-        "added": 1687808479000,
+        "added": 1687810188000,
         "apkName": "com.philj56.gbcc.debug_41.apk",
         "features": [
           "android.hardware.screen.landscape"
@@ -205,6 +223,51 @@
         ],
         "versionCode": 41,
         "versionName": "beta41"
+      }
+    ],
+    "com.rossonerd.twointerviewees": [
+      {
+        "added": 1687810188000,
+        "apkName": "com.rossonerd.twointerviewees_140.apk",
+        "features": [
+          "android.hardware.touchscreen"
+        ],
+        "hash": "64150201389ec235b56042c502abe60bf15207817213c3fa96bc10ec0bd2058f",
+        "hashType": "sha256",
+        "minSdkVersion": 10,
+        "nativecode": [
+          "armeabi",
+          "x86"
+        ],
+        "packageName": "com.rossonerd.twointerviewees",
+        "sig": "49971abf04ff4d601e63e6576f6380eb",
+        "signer": "addeffa42862ee5448c2e100bc7252d4f00f2907dc7a576200996631ace53dee",
+        "size": 42331407,
+        "targetSdkVersion": 14,
+        "uses-permission": [
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 140,
+        "versionName": "1.4"
       }
     ]
   }

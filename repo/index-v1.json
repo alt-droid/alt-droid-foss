@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1687807134000,
+    "timestamp": 1687808479000,
     "version": 20001,
     "name": "Alt-Droid",
     "icon": "icon.png",
@@ -13,10 +13,27 @@
   },
   "apps": [
     {
+      "authorName": "CytopiaTeam",
+      "categories": [
+        "Games"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/CytopiaTeam/Cytopia/issues",
+      "license": "Unknown",
+      "name": "Cytopia",
+      "sourceCode": "https://github.com/CytopiaTeam/Cytopia",
+      "summary": "A city building simulation game",
+      "webSite": "https://www.cytopia.net/",
+      "added": 1687808478000,
+      "packageName": "com.cytopia.cytopia",
+      "lastUpdated": 1687808478000
+    },
+    {
       "authorName": "philj56",
       "categories": [
         "Games"
       ],
+      "suggestedVersionName": "0.41",
       "suggestedVersionCode": "2147483647",
       "issueTracker": "https://github.com/philj56/gbcc-android/issues",
       "license": "MIT",
@@ -24,21 +41,26 @@
       "sourceCode": "https://github.com/philj56/gbcc-android/",
       "summary": "Android front end to gbcc",
       "webSite": "https://github.com/philj56/gbcc-android/",
-      "added": 1687807134000,
+      "added": 1687808479000,
       "icon": "com.philj56.gbcc.debug.41.png",
       "packageName": "com.philj56.gbcc.debug",
-      "lastUpdated": 1687807134000
+      "lastUpdated": 1687808479000
     },
     {
+      "authorName": "CenTdemeern1",
       "categories": [
-        "repo"
+        "Games"
       ],
       "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/CenTdemeern1/HaachamaWare/issues",
       "license": "Unknown",
       "name": "HaachamaWare",
-      "added": 1687807133000,
+      "sourceCode": "https://github.com/CenTdemeern1/HaachamaWare",
+      "summary": "HaachamaWare: The Game!",
+      "webSite": "https://centdemeern1.itch.io/haachamaware",
+      "added": 1687808478000,
       "packageName": "com.centdemeern1.HaachamaWare",
-      "lastUpdated": 1687807133000
+      "lastUpdated": 1687808478000
     },
     {
       "authorName": "BaronKiko",
@@ -46,23 +68,24 @@
         "System",
         "Theming"
       ],
+      "suggestedVersionName": "4.0.3",
       "suggestedVersionCode": "2147483647",
       "issueTracker": "https://github.com/BaronKiko/LauncherHijack/issues",
       "license": "Unknown",
       "name": "Launcher Hijack",
       "sourceCode": "https://github.com/BaronKiko/LauncherHijack",
-      "summary": "A small Android application to circumvent the default Amazon Fire launcher.",
+      "summary": "A small Android application to circumvent the default Amazon Fire launcher",
       "webSite": "https://github.com/BaronKiko/LauncherHijack",
-      "added": 1687807132000,
+      "added": 1687808477000,
       "icon": "com.baronkiko.launcherhijack.43.png",
       "packageName": "com.baronkiko.launcherhijack",
-      "lastUpdated": 1687807132000
+      "lastUpdated": 1687808477000
     }
   ],
   "packages": {
     "com.baronkiko.launcherhijack": [
       {
-        "added": 1687807132000,
+        "added": 1687808477000,
         "apkName": "com.baronkiko.launcherhijack_43.apk",
         "hash": "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4",
         "hashType": "sha256",
@@ -96,7 +119,7 @@
     ],
     "com.centdemeern1.HaachamaWare": [
       {
-        "added": 1687807133000,
+        "added": 1687808478000,
         "apkName": "com.centdemeern1.HaachamaWare_1.apk",
         "hash": "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d",
         "hashType": "sha256",
@@ -114,9 +137,40 @@
         "versionName": "0.1"
       }
     ],
+    "com.cytopia.cytopia": [
+      {
+        "added": 1687808478000,
+        "apkName": "com.cytopia.cytopia_1.apk",
+        "hash": "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.cytopia.cytopia",
+        "sig": "2370bb1cde6605a3b27936c2d54fc600",
+        "signer": "9e6e56517395e96261c829beb3d6f938167d65b8c943def14a63eb71b7a1b2fe",
+        "size": 68732941,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            22
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            22
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "0.2.1"
+      }
+    ],
     "com.philj56.gbcc.debug": [
       {
-        "added": 1687807134000,
+        "added": 1687808479000,
         "apkName": "com.philj56.gbcc.debug_41.apk",
         "features": [
           "android.hardware.screen.landscape"

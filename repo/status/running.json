@@ -6,9 +6,12 @@
     "--pretty"
   ],
   "fdroiddata": {
-    "commitId": "9c8a91dbcca027dbe075f063c4eddab8ea1fb067",
+    "commitId": "f09a30853ba8942e88a041fe5feda992351fac82",
     "isDirty": true,
     "modifiedFiles": [
+      "metadata/com.baronkiko.launcherhijack.yml",
+      "metadata/com.centdemeern1.HaachamaWare.yml",
+      "metadata/com.philj56.gbcc.debug.yml",
       "repo/categories.txt",
       "repo/index-v1.jar",
       "repo/index-v1.json",
@@ -21,10 +24,10 @@
       "update.sh"
     ],
     "untrackedFiles": [
-      "metadata/com.centdemeern1.HaachamaWare.yml",
-      "repo/com.centdemeern1.HaachamaWare_1.apk"
+      "metadata/com.cytopia.cytopia.yml",
+      "repo/com.cytopia.cytopia_1.apk"
     ]
   },
-  "startTimestamp": 1687835932000,
+  "startTimestamp": 1687837276000,
   "subcommand": "update"
 }

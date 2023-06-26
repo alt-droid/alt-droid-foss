@@ -1,0 +1,9 @@
+AuthorName: 'CytopiaTeam'
+Categories:
+- Games
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/CytopiaTeam/Cytopia/issues'
+Name: Cytopia
+SourceCode: 'https://github.com/CytopiaTeam/Cytopia'
+Summary: 'A city building simulation game'
+WebSite: 'https://www.cytopia.net/'

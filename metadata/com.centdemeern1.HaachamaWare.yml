@@ -1,9 +1,9 @@
-AuthorName: ''
+AuthorName: 'CenTdemeern1'
 Categories:
-- repo
+- Games
 CurrentVersionCode: 2147483647
-IssueTracker: ''
+IssueTracker: 'https://github.com/CenTdemeern1/HaachamaWare/issues'
 Name: HaachamaWare
-SourceCode: ''
-Summary: ''
-WebSite: ''
+SourceCode: 'https://github.com/CenTdemeern1/HaachamaWare'
+Summary: 'HaachamaWare: The Game!'
+WebSite: 'https://centdemeern1.itch.io/haachamaware'

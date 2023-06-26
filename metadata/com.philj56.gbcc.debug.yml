@@ -2,6 +2,7 @@ AuthorName: 'philj56'
 Categories:
 - Games
 License: MIT
+CurrentVersion: 0.41
 CurrentVersionCode: 2147483647
 IssueTracker: 'https://github.com/philj56/gbcc-android/issues'
 Name: GBCC (Debug)

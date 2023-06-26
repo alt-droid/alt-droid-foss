@@ -49,8 +49,7 @@ to maintain confidentiality with regard to the reporter of an incident. Further
 details of specific enforcement policies may be posted separately.
 
 The project leadership team can be contacted by email:
-- [@user-A](mailto:you@here.com)
-- [@user-B](mailto:not@here.com)
+- [@JoshuaFern](mailto:jdf@sdf.org)
 
 ## License and Acknowledgement
 

@@ -9,36 +9,20 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1687813423646,
+  "endTimestamp": 1687814263500,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "e9545e16eb63430c631147ccdcab6d7e77c90c14",
+    "commitId": "624f064637aa4ee5a34c238f2ed4c94111f05bb0",
     "isDirty": true,
     "modifiedFiles": [
-      "metadata/com.baronkiko.launcherhijack.yml",
-      "metadata/com.centdemeern1.HaachamaWare.yml",
-      "metadata/com.cytopia.cytopia.yml",
-      "metadata/com.rossonerd.twointerviewees.yml",
+      "metadata/dev.alchemix.bestagon.BestagonDefence.yml",
       "repo/index-v1.jar",
       "repo/index-v1.json",
-      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/status/running.json",
-      "repo/status/update.json",
       "tmp/apkcache.json"
     ],
-    "untrackedFiles": [
-      "metadata/dev.alchemix.bestagon.BestagonDefence.yml",
-      "repo/dev.alchemix.bestagon.BestagonDefence_1.apk",
-      "repo/icons-120/dev.alchemix.bestagon.BestagonDefence.1.png",
-      "repo/icons-160/dev.alchemix.bestagon.BestagonDefence.1.png",
-      "repo/icons-240/dev.alchemix.bestagon.BestagonDefence.1.png",
-      "repo/icons-320/dev.alchemix.bestagon.BestagonDefence.1.png",
-      "repo/icons-480/dev.alchemix.bestagon.BestagonDefence.1.png",
-      "repo/icons-640/dev.alchemix.bestagon.BestagonDefence.1.png",
-      "repo/icons/dev.alchemix.bestagon.BestagonDefence.1.png"
-    ]
+    "untrackedFiles": []
   },
   "jarsigner": "/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/jarsigner",
   "keytool": "/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/keytool",
@@ -66,6 +50,6 @@
     "com.rossonerd.twointerviewees",
     "dev.alchemix.bestagon.BestagonDefence"
   ],
-  "startTimestamp": 1687842217000,
+  "startTimestamp": 1687843057000,
   "subcommand": "update"
 }

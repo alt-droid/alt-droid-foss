@@ -1,1 +1,59 @@
-{"antiFeatures":{},"apksigner":"/nix/store/xkx3s0dqfwldzihlwcb1k9n2j0mziir0-apksigner-33.0.1/bin/apksigner","archivePolicy0":[],"commandLine":["/nix/store/c4kay2avxp74gm018zj9v6wf4icazc1f-fdroidserver-2.1.1/bin/fdroid update"],"disabled":[],"endTimestamp":1687751368981,"failedBuilds":{},"fdroiddata":{"commitId":"d1744245d1b168477cc9c0bfd7c3c5890f048ff9","isDirty":true,"modifiedFiles":["repo/icons/icon.png","repo/index-v1.jar","repo/index-v1.json","repo/index.html","repo/index.jar","repo/index.png","repo/index.xml"],"untrackedFiles":[]},"jarsigner":"/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/jarsigner","keytool":"/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/keytool","needsUpdate":["com.baronkiko.launcherhijack"],"noPackages":["com.baronkiko.launcherhijack"],"noUpdateCheck":["com.baronkiko.launcherhijack"],"startTimestamp":1687780166000,"subcommand":"update"}
+{
+  "antiFeatures": {},
+  "apksigner": "/nix/store/xkx3s0dqfwldzihlwcb1k9n2j0mziir0-apksigner-33.0.1/bin/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/nix/store/c4kay2avxp74gm018zj9v6wf4icazc1f-fdroidserver-2.1.1/bin/fdroid update",
+    "--rename-apks",
+    "--create-metadata",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1687767757232,
+  "failedBuilds": {},
+  "fdroiddata": {
+    "commitId": "7f0f8b7651c187f1e6e187442accbebb1840332f",
+    "isDirty": true,
+    "modifiedFiles": [
+      "repo/LauncherHijackV403.apk",
+      "repo/categories.txt",
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index.html",
+      "repo/index.jar",
+      "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json",
+      "tmp/apkcache.json"
+    ],
+    "untrackedFiles": [
+      "metadata/com.philj56.gbcc.debug.yml",
+      "repo/com.baronkiko.launcherhijack_43.apk",
+      "repo/com.philj56.gbcc.debug_41.apk",
+      "repo/icons-120/com.philj56.gbcc.debug.41.png",
+      "repo/icons-160/com.philj56.gbcc.debug.41.png",
+      "repo/icons-240/com.philj56.gbcc.debug.41.png",
+      "repo/icons-320/com.philj56.gbcc.debug.41.png",
+      "repo/icons-480/com.philj56.gbcc.debug.41.png",
+      "repo/icons-640/com.philj56.gbcc.debug.41.png",
+      "repo/icons/com.philj56.gbcc.debug.41.png",
+      "update.sh"
+    ]
+  },
+  "jarsigner": "/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/jarsigner",
+  "keytool": "/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/keytool",
+  "needsUpdate": [
+    "com.baronkiko.launcherhijack",
+    "com.philj56.gbcc.debug"
+  ],
+  "noPackages": [
+    "com.baronkiko.launcherhijack",
+    "com.philj56.gbcc.debug"
+  ],
+  "noUpdateCheck": [
+    "com.baronkiko.launcherhijack",
+    "com.philj56.gbcc.debug"
+  ],
+  "startTimestamp": 1687796553000,
+  "subcommand": "update"
+}

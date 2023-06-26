@@ -1,7 +1,7 @@
 {
   "METADATA_VERSION": 20001,
   "allow_disabled_algorithms": false,
-  "LauncherHijackV403.apk": {
+  "com.baronkiko.launcherhijack_43.apk": {
     "hash": "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4",
     "hashType": "sha256",
     "uses-permission": [
@@ -50,8 +50,65 @@
     "sig": "2462279381abe49db7dc6baaa90499ed",
     "signer": "8806ca47172ef2f653ac2dc35d01cbc87af542c8072247ad686526788e172fbb",
     "size": 1590776,
-    "apkName": "LauncherHijackV403.apk",
+    "apkName": "com.baronkiko.launcherhijack_43.apk",
     "icon": "com.baronkiko.launcherhijack.43.png",
-    "added": 1687772616.35723
+    "added": 1687792954.466266
+  },
+  "com.philj56.gbcc.debug_41.apk": {
+    "hash": "03819e19c986dadce377b9fe1a1927643116697385632e83f85af19768ae3e78",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "com.philj56.gbcc.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.screen.landscape"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.philj56.gbcc.debug.41.png",
+      "480": "com.philj56.gbcc.debug.41.png",
+      "320": "com.philj56.gbcc.debug.41.png",
+      "240": "com.philj56.gbcc.debug.41.png",
+      "160": "com.philj56.gbcc.debug.41.png",
+      "0": "com.philj56.gbcc.debug.41.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.philj56.gbcc.debug",
+    "versionCode": 41,
+    "name": "GBCC (Debug)",
+    "versionName": "beta41",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "0f163d65eed3684e21933efe3e84bdcc",
+    "signer": "4ffdd9e5e2076fb03d153d6312556a8b984a349515b281d743e44d74239e352c",
+    "size": 8064149,
+    "apkName": "com.philj56.gbcc.debug_41.apk",
+    "icon": "com.philj56.gbcc.debug.41.png",
+    "added": 1687792955.280972
   }
 }

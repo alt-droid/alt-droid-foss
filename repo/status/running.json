@@ -1,21 +1,39 @@
 {
   "commandLine": [
-    "/nix/store/c4kay2avxp74gm018zj9v6wf4icazc1f-fdroidserver-2.1.1/bin/fdroid update"
+    "/nix/store/c4kay2avxp74gm018zj9v6wf4icazc1f-fdroidserver-2.1.1/bin/fdroid update",
+    "--rename-apks",
+    "--create-metadata",
+    "--pretty"
   ],
   "fdroiddata": {
-    "commitId": "d1744245d1b168477cc9c0bfd7c3c5890f048ff9",
+    "commitId": "7f0f8b7651c187f1e6e187442accbebb1840332f",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/icons/icon.png",
+      "repo/LauncherHijackV403.apk",
+      "repo/categories.txt",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.html",
       "repo/index.jar",
-      "repo/index.png",
-      "repo/index.xml"
+      "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json",
+      "tmp/apkcache.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "metadata/com.philj56.gbcc.debug.yml",
+      "repo/com.baronkiko.launcherhijack_43.apk",
+      "repo/com.philj56.gbcc.debug_41.apk",
+      "repo/icons-120/com.philj56.gbcc.debug.41.png",
+      "repo/icons-160/com.philj56.gbcc.debug.41.png",
+      "repo/icons-240/com.philj56.gbcc.debug.41.png",
+      "repo/icons-320/com.philj56.gbcc.debug.41.png",
+      "repo/icons-480/com.philj56.gbcc.debug.41.png",
+      "repo/icons-640/com.philj56.gbcc.debug.41.png",
+      "repo/icons/com.philj56.gbcc.debug.41.png",
+      "update.sh"
+    ]
   },
-  "startTimestamp": 1687780166000,
+  "startTimestamp": 1687796553000,
   "subcommand": "update"
 }

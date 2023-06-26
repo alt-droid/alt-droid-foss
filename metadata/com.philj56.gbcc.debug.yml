@@ -1,0 +1,10 @@
+AuthorName: 'philj56'
+Categories:
+- Games
+License: MIT
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/philj56/gbcc-android/issues'
+Name: GBCC (Debug)
+SourceCode: 'https://github.com/philj56/gbcc-android/'
+Summary: 'Android front end to gbcc'
+WebSite: 'https://github.com/philj56/gbcc-android/'

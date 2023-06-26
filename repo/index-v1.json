@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1687767755000,
+    "timestamp": 1687807134000,
     "version": 20001,
     "name": "Alt-Droid",
     "icon": "icon.png",
@@ -24,10 +24,21 @@
       "sourceCode": "https://github.com/philj56/gbcc-android/",
       "summary": "Android front end to gbcc",
       "webSite": "https://github.com/philj56/gbcc-android/",
-      "added": 1687767755000,
+      "added": 1687807134000,
       "icon": "com.philj56.gbcc.debug.41.png",
       "packageName": "com.philj56.gbcc.debug",
-      "lastUpdated": 1687767755000
+      "lastUpdated": 1687807134000
+    },
+    {
+      "categories": [
+        "repo"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "HaachamaWare",
+      "added": 1687807133000,
+      "packageName": "com.centdemeern1.HaachamaWare",
+      "lastUpdated": 1687807133000
     },
     {
       "authorName": "BaronKiko",
@@ -42,16 +53,16 @@
       "sourceCode": "https://github.com/BaronKiko/LauncherHijack",
       "summary": "A small Android application to circumvent the default Amazon Fire launcher.",
       "webSite": "https://github.com/BaronKiko/LauncherHijack",
-      "added": 1687767754000,
+      "added": 1687807132000,
       "icon": "com.baronkiko.launcherhijack.43.png",
       "packageName": "com.baronkiko.launcherhijack",
-      "lastUpdated": 1687767754000
+      "lastUpdated": 1687807132000
     }
   ],
   "packages": {
     "com.baronkiko.launcherhijack": [
       {
-        "added": 1687767754000,
+        "added": 1687807132000,
         "apkName": "com.baronkiko.launcherhijack_43.apk",
         "hash": "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4",
         "hashType": "sha256",
@@ -83,9 +94,29 @@
         "versionName": "4.0.3"
       }
     ],
+    "com.centdemeern1.HaachamaWare": [
+      {
+        "added": 1687807133000,
+        "apkName": "com.centdemeern1.HaachamaWare_1.apk",
+        "hash": "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d",
+        "hashType": "sha256",
+        "minSdkVersion": 18,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.centdemeern1.HaachamaWare",
+        "sig": "f58cdd3ae65331f472c9b90c46d1de64",
+        "signer": "1b83c49cf87b871633483373b0f13a14b48d60a2ae9cd4e1c645aad5679e9fc6",
+        "size": 42427706,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "0.1"
+      }
+    ],
     "com.philj56.gbcc.debug": [
       {
-        "added": 1687767755000,
+        "added": 1687807134000,
         "apkName": "com.philj56.gbcc.debug_41.apk",
         "features": [
           "android.hardware.screen.landscape"

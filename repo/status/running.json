@@ -6,10 +6,9 @@
     "--pretty"
   ],
   "fdroiddata": {
-    "commitId": "7f0f8b7651c187f1e6e187442accbebb1840332f",
+    "commitId": "9c8a91dbcca027dbe075f063c4eddab8ea1fb067",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/LauncherHijackV403.apk",
       "repo/categories.txt",
       "repo/index-v1.jar",
       "repo/index-v1.json",
@@ -18,22 +17,14 @@
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json",
-      "tmp/apkcache.json"
+      "tmp/apkcache.json",
+      "update.sh"
     ],
     "untrackedFiles": [
-      "metadata/com.philj56.gbcc.debug.yml",
-      "repo/com.baronkiko.launcherhijack_43.apk",
-      "repo/com.philj56.gbcc.debug_41.apk",
-      "repo/icons-120/com.philj56.gbcc.debug.41.png",
-      "repo/icons-160/com.philj56.gbcc.debug.41.png",
-      "repo/icons-240/com.philj56.gbcc.debug.41.png",
-      "repo/icons-320/com.philj56.gbcc.debug.41.png",
-      "repo/icons-480/com.philj56.gbcc.debug.41.png",
-      "repo/icons-640/com.philj56.gbcc.debug.41.png",
-      "repo/icons/com.philj56.gbcc.debug.41.png",
-      "update.sh"
+      "metadata/com.centdemeern1.HaachamaWare.yml",
+      "repo/com.centdemeern1.HaachamaWare_1.apk"
     ]
   },
-  "startTimestamp": 1687796553000,
+  "startTimestamp": 1687835932000,
   "subcommand": "update"
 }

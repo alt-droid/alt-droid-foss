@@ -1,0 +1,10 @@
+AuthorName: 'BaronKiko'
+Categories:
+- System
+- Theming
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/BaronKiko/LauncherHijack/issues'
+Name: Launcher Hijack
+SourceCode: 'https://github.com/BaronKiko/LauncherHijack'
+Summary: 'A small Android application to circumvent the default Amazon Fire launcher.'
+WebSite: 'https://github.com/BaronKiko/LauncherHijack'

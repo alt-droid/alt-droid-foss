@@ -1,0 +1,7 @@
+{
+  "commandLine": [
+    "/nix/store/c4kay2avxp74gm018zj9v6wf4icazc1f-fdroidserver-2.1.1/bin/fdroid update"
+  ],
+  "startTimestamp": 1687776761000,
+  "subcommand": "update"
+}

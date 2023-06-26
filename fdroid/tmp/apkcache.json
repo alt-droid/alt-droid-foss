@@ -1,0 +1,57 @@
+{
+  "METADATA_VERSION": 20001,
+  "allow_disabled_algorithms": false,
+  "LauncherHijackV403.apk": {
+    "hash": "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.BIND_ACCESSIBILITY_SERVICE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        null
+      ],
+      [
+        "android.permission.INSTALL_PACKAGES",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.baronkiko.launcherhijack.43.png",
+      "480": "com.baronkiko.launcherhijack.43.png",
+      "320": "com.baronkiko.launcherhijack.43.png",
+      "240": "com.baronkiko.launcherhijack.43.png",
+      "160": "com.baronkiko.launcherhijack.43.png",
+      "0": "com.baronkiko.launcherhijack.43.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.baronkiko.launcherhijack",
+    "versionCode": 43,
+    "name": "Launcher Hijack",
+    "versionName": "4.0.3",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 28,
+    "sig": "2462279381abe49db7dc6baaa90499ed",
+    "signer": "8806ca47172ef2f653ac2dc35d01cbc87af542c8072247ad686526788e172fbb",
+    "size": 1590776,
+    "apkName": "LauncherHijackV403.apk",
+    "icon": "com.baronkiko.launcherhijack.43.png",
+    "added": 1687772616.35723
+  }
+}

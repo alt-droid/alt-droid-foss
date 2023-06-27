@@ -1,9 +1,11 @@
-AuthorName: ''
+AuthorName: 'holypangolin'
 Categories:
-- repo
+- Games
+License: GPL-3.0-only
+CurrentVersion: 5951be2
 CurrentVersionCode: 2147483647
-IssueTracker: ''
+IssueTracker: 'https://gitlab.com/HolyPangolin/rukavychka/-/issues'
 Name: Rukavychka
-SourceCode: ''
-Summary: ''
-WebSite: ''
+SourceCode: 'https://gitlab.com/HolyPangolin/rukavychka/'
+Summary: 'Find the mouse (with dragon) and the door to Rukavychka (with fox) together, then lead the mouse to the door'
+WebSite: 'https://holypangolin.itch.io/rukavychka'

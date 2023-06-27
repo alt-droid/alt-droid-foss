@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1687824329000,
+    "timestamp": 1687831553000,
     "version": 20001,
     "name": "Alt-Droid",
     "icon": "icon.png",
@@ -25,10 +25,10 @@
       "sourceCode": "https://github.com/Greenfoot5/Bestagon-Defence",
       "summary": "A tower defence game of hexagons with roguelike elements. Made using Unity and Inkscape",
       "webSite": "https://greenfoot5.itch.io/bestagon-defence",
-      "added": 1687824328000,
+      "added": 1687831553000,
       "icon": "dev.alchemix.bestagon.BestagonDefence.1.png",
       "packageName": "dev.alchemix.bestagon.BestagonDefence",
-      "lastUpdated": 1687824328000
+      "lastUpdated": 1687831553000
     },
     {
       "authorName": "CytopiaTeam",
@@ -42,9 +42,9 @@
       "sourceCode": "https://github.com/CytopiaTeam/Cytopia",
       "summary": "A city building simulation game",
       "webSite": "https://www.cytopia.net/",
-      "added": 1687824326000,
+      "added": 1687831549000,
       "packageName": "com.cytopia.cytopia",
-      "lastUpdated": 1687824326000
+      "lastUpdated": 1687831549000
     },
     {
       "authorName": "philj56",
@@ -59,10 +59,10 @@
       "sourceCode": "https://github.com/philj56/gbcc-android/",
       "summary": "Android front end to gbcc",
       "webSite": "https://github.com/philj56/gbcc-android/",
-      "added": 1687824327000,
+      "added": 1687831551000,
       "icon": "com.philj56.gbcc.debug.41.png",
       "packageName": "com.philj56.gbcc.debug",
-      "lastUpdated": 1687824327000
+      "lastUpdated": 1687831551000
     },
     {
       "authorName": "CenTdemeern1",
@@ -76,9 +76,9 @@
       "sourceCode": "https://github.com/CenTdemeern1/HaachamaWare",
       "summary": "HaachamaWare: The Game!",
       "webSite": "https://centdemeern1.itch.io/haachamaware",
-      "added": 1687824326000,
+      "added": 1687831549000,
       "packageName": "com.centdemeern1.HaachamaWare",
-      "lastUpdated": 1687824326000
+      "lastUpdated": 1687831549000
     },
     {
       "authorName": "BaronKiko",
@@ -94,22 +94,64 @@
       "sourceCode": "https://github.com/BaronKiko/LauncherHijack",
       "summary": "A small Android application to circumvent the default Amazon Fire launcher",
       "webSite": "https://github.com/BaronKiko/LauncherHijack",
-      "added": 1687824325000,
+      "added": 1687831548000,
       "icon": "com.baronkiko.launcherhijack.43.png",
       "packageName": "com.baronkiko.launcherhijack",
-      "lastUpdated": 1687824325000
+      "lastUpdated": 1687831548000
     },
     {
+      "authorName": "holypangolin",
+      "categories": [
+        "Games"
+      ],
+      "suggestedVersionName": "5951be2",
+      "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://gitlab.com/HolyPangolin/rukavychka/-/issues",
+      "license": "GPL-3.0-only",
+      "name": "Rukavychka",
+      "sourceCode": "https://gitlab.com/HolyPangolin/rukavychka/",
+      "summary": "Find the mouse (with dragon) and the door to Rukavychka (with fox) together, then lead the mouse to the door",
+      "webSite": "https://holypangolin.itch.io/rukavychka",
+      "added": 1687831550000,
+      "icon": "com.holypangolin.Rukavychka.3000105.png",
+      "packageName": "com.holypangolin.Rukavychka",
+      "lastUpdated": 1687831550000
+    },
+    {
+      "authorName": "Frappagames",
+      "categories": [
+        "Games"
+      ],
+      "suggestedVersionName": "1",
+      "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/Frappagames/snake/issues",
+      "license": "GPL-3.0-only",
+      "name": "Snake",
+      "sourceCode": "https://github.com/Frappagames/snake",
+      "summary": "A retro-style remake of the Snake 2 game developped in JAVA with LibGDX.",
+      "webSite": "https://frappagames.itch.io/snake",
+      "added": 1687831549000,
+      "icon": "com.frappagames.snake.1.png",
+      "packageName": "com.frappagames.snake",
+      "lastUpdated": 1687831549000
+    },
+    {
+      "authorName": "TrashboxBobylev",
       "categories": [
         "repo"
       ],
+      "suggestedVersionName": "1.2.4",
       "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon/issues",
       "license": "Unknown",
-      "name": "Rukavychka",
-      "added": 1687824329000,
-      "icon": "com.holypangolin.Rukavychka.3000105.png",
-      "packageName": "com.holypangolin.Rukavychka",
-      "lastUpdated": 1687824329000
+      "name": "Summoning Pixel Dungeon",
+      "sourceCode": "https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon",
+      "summary": "The expansion for Shattered Pixel Dungeon",
+      "webSite": "https://trashboxbobylev.itch.io/summoning-pixel-dungeon",
+      "added": 1687831552000,
+      "icon": "com.trashboxbobylev.summoningpixeldungeon.425.png",
+      "packageName": "com.trashboxbobylev.summoningpixeldungeon",
+      "lastUpdated": 1687831552000
     },
     {
       "authorName": "maurovanetti",
@@ -124,16 +166,16 @@
       "sourceCode": "https://github.com/maurovanetti/two-interviewees",
       "summary": "Two Interviewees, a short open-source visual novel about the gender gap",
       "webSite": "https://maurovanetti.itch.io/2i",
-      "added": 1687824327000,
+      "added": 1687831551000,
       "icon": "com.rossonerd.twointerviewees.140.png",
       "packageName": "com.rossonerd.twointerviewees",
-      "lastUpdated": 1687824327000
+      "lastUpdated": 1687831551000
     }
   ],
   "packages": {
     "com.baronkiko.launcherhijack": [
       {
-        "added": 1687824325000,
+        "added": 1687831548000,
         "apkName": "com.baronkiko.launcherhijack_43.apk",
         "hash": "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4",
         "hashType": "sha256",
@@ -167,7 +209,7 @@
     ],
     "com.centdemeern1.HaachamaWare": [
       {
-        "added": 1687824326000,
+        "added": 1687831549000,
         "apkName": "com.centdemeern1.HaachamaWare_1.apk",
         "hash": "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d",
         "hashType": "sha256",
@@ -187,7 +229,7 @@
     ],
     "com.cytopia.cytopia": [
       {
-        "added": 1687824326000,
+        "added": 1687831549000,
         "apkName": "com.cytopia.cytopia_1.apk",
         "hash": "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce",
         "hashType": "sha256",
@@ -216,9 +258,32 @@
         "versionName": "0.2.1"
       }
     ],
+    "com.frappagames.snake": [
+      {
+        "added": 1687831549000,
+        "apkName": "com.frappagames.snake_1.apk",
+        "hash": "7bf8ce92c8423673cbd7488f200dbde281fd6e3be72659042bb2875c5be3c1ce",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.frappagames.snake",
+        "sig": "d4cc7393cf5f21350fdf3b87f7ffbbff",
+        "signer": "d460ac6abac8c24f87b0a0ce6685cc3c4f8f08e4f0a98ad3aa9c61f0e775a44c",
+        "size": 4834895,
+        "targetSdkVersion": 25,
+        "versionCode": 1,
+        "versionName": "1.0"
+      }
+    ],
     "com.holypangolin.Rukavychka": [
       {
-        "added": 1687824329000,
+        "added": 1687831550000,
         "apkName": "com.holypangolin.Rukavychka_3000105.apk",
         "hash": "aa59ce8e6064db36f2874883a3b073de03d68b97a3a486874137a4d34de71a2d",
         "hashType": "sha256",
@@ -235,7 +300,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1687824329000,
+        "added": 1687831550000,
         "apkName": "com.holypangolin.Rukavychka_2000105.apk",
         "hash": "5b22f5fc1b9a502554c0baaeb57cccb88c7c8aaafe601b460b8fe7d0c21a45bb",
         "hashType": "sha256",
@@ -254,7 +319,7 @@
     ],
     "com.philj56.gbcc.debug": [
       {
-        "added": 1687824327000,
+        "added": 1687831551000,
         "apkName": "com.philj56.gbcc.debug_41.apk",
         "features": [
           "android.hardware.screen.landscape"
@@ -293,7 +358,7 @@
     ],
     "com.rossonerd.twointerviewees": [
       {
-        "added": 1687824327000,
+        "added": 1687831551000,
         "apkName": "com.rossonerd.twointerviewees_140.apk",
         "features": [
           "android.hardware.touchscreen"
@@ -336,9 +401,57 @@
         "versionName": "1.4"
       }
     ],
+    "com.trashboxbobylev.summoningpixeldungeon": [
+      {
+        "added": 1687831552000,
+        "apkName": "com.trashboxbobylev.summoningpixeldungeon_425.apk",
+        "hash": "660dc481ed5f603b6d46bdaa32de6248654c9c35d526c114ae4a14e2abd328a5",
+        "hashType": "sha256",
+        "minSdkVersion": 15,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.trashboxbobylev.summoningpixeldungeon",
+        "sig": "a0accb63a5d306fe5e0b1ee2093ff75f",
+        "signer": "18076f83c74d847df6e824b7649c407a206ccfe1d18aea93877c056012fd5ddd",
+        "size": 9120044,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.READ_LOGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 425,
+        "versionName": "1.2.4a-e6d90b7"
+      }
+    ],
     "dev.alchemix.bestagon.BestagonDefence": [
       {
-        "added": 1687824328000,
+        "added": 1687831553000,
         "apkName": "dev.alchemix.bestagon.BestagonDefence_1.apk",
         "hash": "44f92dd0fab5c864435091df02392efd471a3737b67545075d25d2bdfb6d5c77",
         "hashType": "sha256",

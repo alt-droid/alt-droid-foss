@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Alt-Droid" pubkey="308204fd308202e5a00302010202040351e058300d06092a864886f70d01010b0500302e3110300e060355040b1307462d44726f6964311a3018060355040313116e69786f732d776f726b73746174696f6e3020170d3233303632363032323131315a180f32303530313131313032323131315a302e3110300e060355040b1307462d44726f6964311a3018060355040313116e69786f732d776f726b73746174696f6e30820222300d06092a864886f70d01010105000382020f003082020a028202010098e7a89d55ffc6756a856ed0b86e76ba58bf375206f5e2f81450c1f0ab07a4625209ba418d75c1d1ea8dc89593794e4b3e46e3705d74ac64ae74bc7238ab968c1d047d20b5602a2dd0841fad56fc6ec553dc7e6de41262294b28fbb31d3a844eb6a99a724178cb45cac6a8b473f849fb39d77bc76a996b545f312ab3cf7f58d0ea3605f51e26de2e7ce42786643eef238b2aff40f1bceca1b58254e8eaf5a19fbb908d0fde8212c5af8237d60733b03836eca2ec00e9e7468b79a6b22860e4b29890d3677b0ede4eca2aa6362b216f63710a49d8ddc12edb2a6928c940236e7f5750466444d28cc9499a6179b8f9fc4ab4bb6f8ad6b82891fec7ea431ad225439099d606ae2870acc9e1732ef9da8118da23da94afbc4cf76c4a32734ad59ba5bbc4594206864c31e022ff2d7b22759a8311a944d24ae0a4b75115cce2753c738db4b2e70f3e8509b7f7214dc343cc1502c33fc14177b72f5c66889cc839cfa6dd9bcd4da9641a5b0b594aebfdd1c4fe1a0b65481b64beeb10f3ee0f6389734688b0e4ddba14a32f406e023b2a50fe18ab286bfad2f14e88e762fcd9002b302b1563e99cd378c9891296c0244dd0d5e5644f27d032ded9f81dad27da0c056e41278c454999ceb26950c83205d2edf2705ef685c815ee06b6f56162c47674a3c97402cdb1ea3bab3852f9747dac5876fefe3216d6369ec2de3e0bd756d3c0988d0203010001a321301f301d0603551d0e041604146b678a8542c1753393ce27a01c6aef754b203297300d06092a864886f70d01010b050003820201001f68ef4976f8473b26093f7dd28ebf988dfc9cf8d387099e5954394f88c4a99b19863c410dd47bb750bc68a8024ace928e65c1c2e7726da22f79e41a8ae838671748b3ab99f0a6f66749a187a318a2a99f0e4fdae0d46ff4c7784c0e7aab6e27c91d18836d88fd031ddf6baad41320595cf883165972c9022e46bb50d598d4571ed7f85136fe532c1af3dcc571120629cab531131655464dee6524ab897dd9728de7e3599b85e30b5553cd4712ecdffc150039bbbf749c96673a3eeb993a497f153e1bc6c734f04747d335ffa996fd43fb22003a3d5dc667215123a307b42a1ceaf4fe432ed572bcfceeda43852d8c511e89e748a838348adef1a3586cb405527e66fd2223da51ae5f0731f6788c534630541616c359bea0e512229d61851ed4bf5ec35c6860eaf87a7fecf1161834c007ab80ad05ab065f6975794003b856988acd3daecd7581021329606c54921528798fef6930eea4e2a1568c68fd68f1524a50e845c0c5a3348632d85a703e852059070eb35e0816949ef3fa96dc42ee5b073953d87d49d0203549145ddbedf458fdcfc70ad3ec0ed65830a37b8e91555d7074ef53e0ecc96e09d7821c23ab64d281fc5c4364735776f80d6595f226c490c161e4124f8ff5c40123caa8f07b8f06df7459a5b91825928f440953cb614632ae56fbe3c40a26713c51b852a4e9149b8638762dcffe9f8747f1ecd7058fa329" timestamp="1687814261" url="https://alt-droid.github.io/fdroid/repo/" version="20001">
+	<repo icon="icon.png" name="Alt-Droid" pubkey="308204fd308202e5a00302010202040351e058300d06092a864886f70d01010b0500302e3110300e060355040b1307462d44726f6964311a3018060355040313116e69786f732d776f726b73746174696f6e3020170d3233303632363032323131315a180f32303530313131313032323131315a302e3110300e060355040b1307462d44726f6964311a3018060355040313116e69786f732d776f726b73746174696f6e30820222300d06092a864886f70d01010105000382020f003082020a028202010098e7a89d55ffc6756a856ed0b86e76ba58bf375206f5e2f81450c1f0ab07a4625209ba418d75c1d1ea8dc89593794e4b3e46e3705d74ac64ae74bc7238ab968c1d047d20b5602a2dd0841fad56fc6ec553dc7e6de41262294b28fbb31d3a844eb6a99a724178cb45cac6a8b473f849fb39d77bc76a996b545f312ab3cf7f58d0ea3605f51e26de2e7ce42786643eef238b2aff40f1bceca1b58254e8eaf5a19fbb908d0fde8212c5af8237d60733b03836eca2ec00e9e7468b79a6b22860e4b29890d3677b0ede4eca2aa6362b216f63710a49d8ddc12edb2a6928c940236e7f5750466444d28cc9499a6179b8f9fc4ab4bb6f8ad6b82891fec7ea431ad225439099d606ae2870acc9e1732ef9da8118da23da94afbc4cf76c4a32734ad59ba5bbc4594206864c31e022ff2d7b22759a8311a944d24ae0a4b75115cce2753c738db4b2e70f3e8509b7f7214dc343cc1502c33fc14177b72f5c66889cc839cfa6dd9bcd4da9641a5b0b594aebfdd1c4fe1a0b65481b64beeb10f3ee0f6389734688b0e4ddba14a32f406e023b2a50fe18ab286bfad2f14e88e762fcd9002b302b1563e99cd378c9891296c0244dd0d5e5644f27d032ded9f81dad27da0c056e41278c454999ceb26950c83205d2edf2705ef685c815ee06b6f56162c47674a3c97402cdb1ea3bab3852f9747dac5876fefe3216d6369ec2de3e0bd756d3c0988d0203010001a321301f301d0603551d0e041604146b678a8542c1753393ce27a01c6aef754b203297300d06092a864886f70d01010b050003820201001f68ef4976f8473b26093f7dd28ebf988dfc9cf8d387099e5954394f88c4a99b19863c410dd47bb750bc68a8024ace928e65c1c2e7726da22f79e41a8ae838671748b3ab99f0a6f66749a187a318a2a99f0e4fdae0d46ff4c7784c0e7aab6e27c91d18836d88fd031ddf6baad41320595cf883165972c9022e46bb50d598d4571ed7f85136fe532c1af3dcc571120629cab531131655464dee6524ab897dd9728de7e3599b85e30b5553cd4712ecdffc150039bbbf749c96673a3eeb993a497f153e1bc6c734f04747d335ffa996fd43fb22003a3d5dc667215123a307b42a1ceaf4fe432ed572bcfceeda43852d8c511e89e748a838348adef1a3586cb405527e66fd2223da51ae5f0731f6788c534630541616c359bea0e512229d61851ed4bf5ec35c6860eaf87a7fecf1161834c007ab80ad05ab065f6975794003b856988acd3daecd7581021329606c54921528798fef6930eea4e2a1568c68fd68f1524a50e845c0c5a3348632d85a703e852059070eb35e0816949ef3fa96dc42ee5b073953d87d49d0203549145ddbedf458fdcfc70ad3ec0ed65830a37b8e91555d7074ef53e0ecc96e09d7821c23ab64d281fc5c4364735776f80d6595f226c490c161e4124f8ff5c40123caa8f07b8f06df7459a5b91825928f440953cb614632ae56fbe3c40a26713c51b852a4e9149b8638762dcffe9f8747f1ecd7058fa329" timestamp="1687824329" url="https://alt-droid.github.io/fdroid/repo/" version="20001">
 		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin using the tools on https://gitlab.com/fdroid</description>
 	</repo>
 	<application id="dev.alchemix.bestagon.BestagonDefence">
 		<id>dev.alchemix.bestagon.BestagonDefence</id>
-		<added>2023-06-26</added>
-		<lastupdated>2023-06-26</lastupdated>
+		<added>2023-06-27</added>
+		<lastupdated>2023-06-27</lastupdated>
 		<name>Bestagon Defence</name>
 		<summary>A tower defence game of hexagons with roguelike elements. Made using Unity and Inkscape</summary>
 		<icon>dev.alchemix.bestagon.BestagonDefence.1.png</icon>
@@ -28,7 +28,7 @@
 			<size>67863154</size>
 			<sdkver>22</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2023-06-26</added>
+			<added>2023-06-27</added>
 			<sig>133dc403c5575ddfab24463991c465ef</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,POST_NOTIFICATIONS</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
@@ -36,8 +36,8 @@
 	</application>
 	<application id="com.cytopia.cytopia">
 		<id>com.cytopia.cytopia</id>
-		<added>2023-06-26</added>
-		<lastupdated>2023-06-26</lastupdated>
+		<added>2023-06-27</added>
+		<lastupdated>2023-06-27</lastupdated>
 		<name>Cytopia</name>
 		<summary>A city building simulation game</summary>
 		<desc>No description available</desc>
@@ -58,7 +58,7 @@
 			<size>68732941</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2023-06-26</added>
+			<added>2023-06-27</added>
 			<sig>2370bb1cde6605a3b27936c2d54fc600</sig>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="22" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -68,8 +68,8 @@
 	</application>
 	<application id="com.philj56.gbcc.debug">
 		<id>com.philj56.gbcc.debug</id>
-		<added>2023-06-26</added>
-		<lastupdated>2023-06-26</lastupdated>
+		<added>2023-06-27</added>
+		<lastupdated>2023-06-27</lastupdated>
 		<name>GBCC (Debug)</name>
 		<summary>Android front end to gbcc</summary>
 		<icon>com.philj56.gbcc.debug.41.png</icon>
@@ -91,7 +91,7 @@
 			<size>8064149</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>33</targetSdkVersion>
-			<added>2023-06-26</added>
+			<added>2023-06-27</added>
 			<sig>0f163d65eed3684e21933efe3e84bdcc</sig>
 			<permissions>CAMERA,VIBRATE,com.philj56.gbcc.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -100,8 +100,8 @@
 	</application>
 	<application id="com.centdemeern1.HaachamaWare">
 		<id>com.centdemeern1.HaachamaWare</id>
-		<added>2023-06-26</added>
-		<lastupdated>2023-06-26</lastupdated>
+		<added>2023-06-27</added>
+		<lastupdated>2023-06-27</lastupdated>
 		<name>HaachamaWare</name>
 		<summary>HaachamaWare: The Game!</summary>
 		<desc>No description available</desc>
@@ -122,15 +122,15 @@
 			<size>42427706</size>
 			<sdkver>18</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2023-06-26</added>
+			<added>2023-06-27</added>
 			<sig>f58cdd3ae65331f472c9b90c46d1de64</sig>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
 		</package>
 	</application>
 	<application id="com.baronkiko.launcherhijack">
 		<id>com.baronkiko.launcherhijack</id>
-		<added>2023-06-26</added>
-		<lastupdated>2023-06-26</lastupdated>
+		<added>2023-06-27</added>
+		<lastupdated>2023-06-27</lastupdated>
 		<name>Launcher Hijack</name>
 		<summary>A small Android application to circumvent the default Amazon Fire launcher</summary>
 		<icon>com.baronkiko.launcherhijack.43.png</icon>
@@ -152,15 +152,56 @@
 			<size>1590776</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2023-06-26</added>
+			<added>2023-06-27</added>
 			<sig>2462279381abe49db7dc6baaa90499ed</sig>
 			<permissions>BIND_ACCESSIBILITY_SERVICE,INSTALL_PACKAGES,RECEIVE_BOOT_COMPLETED,SYSTEM_ALERT_WINDOW</permissions>
 		</package>
 	</application>
+	<application id="com.holypangolin.Rukavychka">
+		<id>com.holypangolin.Rukavychka</id>
+		<added>2023-06-27</added>
+		<lastupdated>2023-06-27</lastupdated>
+		<name>Rukavychka</name>
+		<summary></summary>
+		<icon>com.holypangolin.Rukavychka.3000105.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>repo</categories>
+		<category>repo</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>3000105</versioncode>
+			<apkname>com.holypangolin.Rukavychka_3000105.apk</apkname>
+			<hash type="sha256">aa59ce8e6064db36f2874883a3b073de03d68b97a3a486874137a4d34de71a2d</hash>
+			<size>18634315</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2023-06-27</added>
+			<sig>d02be65328351b63427550cfc006390e</sig>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.0</version>
+			<versioncode>2000105</versioncode>
+			<apkname>com.holypangolin.Rukavychka_2000105.apk</apkname>
+			<hash type="sha256">5b22f5fc1b9a502554c0baaeb57cccb88c7c8aaafe601b460b8fe7d0c21a45bb</hash>
+			<size>18478699</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2023-06-27</added>
+			<sig>d02be65328351b63427550cfc006390e</sig>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+	</application>
 	<application id="com.rossonerd.twointerviewees">
 		<id>com.rossonerd.twointerviewees</id>
-		<added>2023-06-26</added>
-		<lastupdated>2023-06-26</lastupdated>
+		<added>2023-06-27</added>
+		<lastupdated>2023-06-27</lastupdated>
 		<name>Two Interviewees</name>
 		<summary>Two Interviewees, a short open-source visual novel about the gender gap</summary>
 		<icon>com.rossonerd.twointerviewees.140.png</icon>
@@ -182,7 +223,7 @@
 			<size>42331407</size>
 			<sdkver>10</sdkver>
 			<targetSdkVersion>14</targetSdkVersion>
-			<added>2023-06-26</added>
+			<added>2023-06-27</added>
 			<sig>49971abf04ff4d601e63e6576f6380eb</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi,x86</nativecode>

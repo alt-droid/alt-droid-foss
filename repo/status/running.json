@@ -6,18 +6,36 @@
     "--pretty"
   ],
   "fdroiddata": {
-    "commitId": "624f064637aa4ee5a34c238f2ed4c94111f05bb0",
+    "commitId": "e9924a12ff93e3601cf55e4b59cb961c0c76a8c0",
     "isDirty": true,
     "modifiedFiles": [
-      "metadata/dev.alchemix.bestagon.BestagonDefence.yml",
       "repo/index-v1.jar",
       "repo/index-v1.json",
+      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
       "tmp/apkcache.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "metadata/com.holypangolin.Rukavychka.yml",
+      "repo/com.holypangolin.Rukavychka_2000105.apk",
+      "repo/com.holypangolin.Rukavychka_3000105.apk",
+      "repo/icons-120/com.holypangolin.Rukavychka.2000105.png",
+      "repo/icons-120/com.holypangolin.Rukavychka.3000105.png",
+      "repo/icons-160/com.holypangolin.Rukavychka.2000105.png",
+      "repo/icons-160/com.holypangolin.Rukavychka.3000105.png",
+      "repo/icons-240/com.holypangolin.Rukavychka.2000105.png",
+      "repo/icons-240/com.holypangolin.Rukavychka.3000105.png",
+      "repo/icons-320/com.holypangolin.Rukavychka.2000105.png",
+      "repo/icons-320/com.holypangolin.Rukavychka.3000105.png",
+      "repo/icons-480/com.holypangolin.Rukavychka.2000105.png",
+      "repo/icons-480/com.holypangolin.Rukavychka.3000105.png",
+      "repo/icons-640/com.holypangolin.Rukavychka.2000105.png",
+      "repo/icons-640/com.holypangolin.Rukavychka.3000105.png",
+      "repo/icons/com.holypangolin.Rukavychka.2000105.png",
+      "repo/icons/com.holypangolin.Rukavychka.3000105.png"
+    ]
   },
-  "startTimestamp": 1687843057000,
+  "startTimestamp": 1687853124000,
   "subcommand": "update"
 }

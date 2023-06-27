@@ -1,8 +1,9 @@
 AuthorName: 'BaronKiko'
 Categories:
+- Alt-Droid
 - System
 - Theming
-License: GPL-3.0-only
+License: GPL-3.0
 CurrentVersion: 4.0.3
 CurrentVersionCode: 2147483647
 IssueTracker: 'https://github.com/BaronKiko/LauncherHijack/issues'

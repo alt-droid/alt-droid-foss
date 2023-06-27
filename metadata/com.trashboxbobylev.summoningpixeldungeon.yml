@@ -1,6 +1,8 @@
 AuthorName: 'TrashboxBobylev'
 Categories:
-- repo
+- Alt-Droid
+- Games
+License: GPL-3.0
 CurrentVersion: 1.2.4
 CurrentVersionCode: 2147483647
 IssueTracker: 'https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon/issues'

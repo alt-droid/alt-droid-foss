@@ -1,7 +1,8 @@
 AuthorName: 'Frappagames'
 Categories:
+- Alt-Droid
 - Games
-License: GPL-3.0-only
+License: GPL-3.0
 CurrentVersion: 1
 CurrentVersionCode: 2147483647
 IssueTracker: 'https://github.com/Frappagames/snake/issues'

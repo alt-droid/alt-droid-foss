@@ -1,5 +1,6 @@
 AuthorName: 'philj56'
 Categories:
+- Alt-Droid
 - Games
 License: MIT
 CurrentVersion: 0.41
@@ -7,5 +8,5 @@ CurrentVersionCode: 2147483647
 IssueTracker: 'https://github.com/philj56/gbcc-android/issues'
 Name: GBCC (Debug)
 SourceCode: 'https://github.com/philj56/gbcc-android/'
-Summary: 'Android front end to gbcc'
+Summary: 'Gameboy Color Emulator'
 WebSite: 'https://github.com/philj56/gbcc-android/'

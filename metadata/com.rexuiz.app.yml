@@ -1,0 +1,12 @@
+AuthorName: 'Rexuiz Team'
+Categories:
+- Alt-Droid
+- Games
+License: GPL-2.0
+CurrentVersion: 230430
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://sourceforge.net/projects/rexuiz/support'
+Name: Rexuiz
+SourceCode: 'https://sourceforge.net/projects/rexuiz/'
+Summary: 'A pure, fast first-person shooter'
+WebSite: 'https://rexuiz.com/'

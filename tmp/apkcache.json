@@ -52,7 +52,7 @@
     "size": 1590776,
     "apkName": "com.baronkiko.launcherhijack_43.apk",
     "icon": "com.baronkiko.launcherhijack.43.png",
-    "added": 1687856748.159952
+    "added": 1687921525.179272
   },
   "com.centdemeern1.HaachamaWare_1.apk": {
     "hash": "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d",
@@ -77,7 +77,7 @@
     "signer": "1b83c49cf87b871633483373b0f13a14b48d60a2ae9cd4e1c645aad5679e9fc6",
     "size": 42427706,
     "apkName": "com.centdemeern1.HaachamaWare_1.apk",
-    "added": 1687856749.038333
+    "added": 1687921526.07809
   },
   "com.cytopia.cytopia_1.apk": {
     "hash": "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce",
@@ -112,7 +112,7 @@
     "signer": "9e6e56517395e96261c829beb3d6f938167d65b8c943def14a63eb71b7a1b2fe",
     "size": 68732941,
     "apkName": "com.cytopia.cytopia_1.apk",
-    "added": 1687856749.558889
+    "added": 1687921526.5981
   },
   "com.frappagames.snake_1.apk": {
     "hash": "7bf8ce92c8423673cbd7488f200dbde281fd6e3be72659042bb2875c5be3c1ce",
@@ -155,7 +155,7 @@
     "size": 4834895,
     "apkName": "com.frappagames.snake_1.apk",
     "icon": "com.frappagames.snake.1.png",
-    "added": 1687856749.758102
+    "added": 1687921526.795825
   },
   "com.holypangolin.Rukavychka_2000105.apk": {
     "hash": "5b22f5fc1b9a502554c0baaeb57cccb88c7c8aaafe601b460b8fe7d0c21a45bb",
@@ -194,7 +194,7 @@
     "size": 18478699,
     "apkName": "com.holypangolin.Rukavychka_2000105.apk",
     "icon": "com.holypangolin.Rukavychka.2000105.png",
-    "added": 1687856750.049452
+    "added": 1687921527.106205
   },
   "com.holypangolin.Rukavychka_3000105.apk": {
     "hash": "aa59ce8e6064db36f2874883a3b073de03d68b97a3a486874137a4d34de71a2d",
@@ -233,7 +233,7 @@
     "size": 18634315,
     "apkName": "com.holypangolin.Rukavychka_3000105.apk",
     "icon": "com.holypangolin.Rukavychka.3000105.png",
-    "added": 1687856750.344674
+    "added": 1687921527.401551
   },
   "com.philj56.gbcc.debug_41.apk": {
     "hash": "03819e19c986dadce377b9fe1a1927643116697385632e83f85af19768ae3e78",
@@ -290,7 +290,66 @@
     "size": 8064149,
     "apkName": "com.philj56.gbcc.debug_41.apk",
     "icon": "com.philj56.gbcc.debug.41.png",
-    "added": 1687856751.147782
+    "added": 1687921528.205117
+  },
+  "com.rexuiz.app_1.apk": {
+    "hash": "d4060a47f781b75999bed88ddfdefd320a85d06d4d1dfd5e6027451d185e6318",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.rexuiz.app.1.png",
+      "480": "com.rexuiz.app.1.png",
+      "320": "com.rexuiz.app.1.png",
+      "240": "com.rexuiz.app.1.png",
+      "160": "com.rexuiz.app.1.png",
+      "0": "com.rexuiz.app.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.rexuiz.app",
+    "versionCode": 1,
+    "name": "Rexuiz",
+    "versionName": "1.0",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 26,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "21c3850b1c92b2b81d71fda6f9de651f",
+    "signer": "06e651550b04dd1bad75ac9b41a2cbe656bf682a344d439b8efcc6dc32f14de6",
+    "size": 15357373,
+    "apkName": "com.rexuiz.app_1.apk",
+    "icon": "com.rexuiz.app.1.png",
+    "added": 1687921528.560976
   },
   "com.rossonerd.twointerviewees_140.apk": {
     "hash": "64150201389ec235b56042c502abe60bf15207817213c3fa96bc10ec0bd2058f",
@@ -346,7 +405,7 @@
     "size": 42331407,
     "apkName": "com.rossonerd.twointerviewees_140.apk",
     "icon": "com.rossonerd.twointerviewees.140.png",
-    "added": 1687856751.66865
+    "added": 1687921529.09735
   },
   "com.trashboxbobylev.summoningpixeldungeon_425.apk": {
     "hash": "660dc481ed5f603b6d46bdaa32de6248654c9c35d526c114ae4a14e2abd328a5",
@@ -404,7 +463,7 @@
     "size": 9120044,
     "apkName": "com.trashboxbobylev.summoningpixeldungeon_425.apk",
     "icon": "com.trashboxbobylev.summoningpixeldungeon.425.png",
-    "added": 1687856752.073558
+    "added": 1687921529.536384
   },
   "dev.alchemix.bestagon.BestagonDefence_1.apk": {
     "hash": "44f92dd0fab5c864435091df02392efd471a3737b67545075d25d2bdfb6d5c77",
@@ -459,6 +518,6 @@
     "size": 67863154,
     "apkName": "dev.alchemix.bestagon.BestagonDefence_1.apk",
     "icon": "dev.alchemix.bestagon.BestagonDefence.1.png",
-    "added": 1687856753.077522
+    "added": 1687921530.545699
   }
 }

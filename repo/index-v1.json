@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1687896330000,
+    "timestamp": 1687986845000,
     "version": 20001,
     "name": "Alt-Droid",
     "icon": "icon.png",
@@ -26,10 +26,10 @@
       "sourceCode": "https://github.com/Greenfoot5/Bestagon-Defence",
       "summary": "A tower defence game of hexagons with roguelike elements. Made using Unity and Inkscape",
       "webSite": "https://greenfoot5.itch.io/bestagon-defence",
-      "added": 1687896330000,
+      "added": 1687986844000,
       "icon": "dev.alchemix.bestagon.BestagonDefence.1.png",
       "packageName": "dev.alchemix.bestagon.BestagonDefence",
-      "lastUpdated": 1687896330000
+      "lastUpdated": 1687986844000
     },
     {
       "authorName": "CytopiaTeam",
@@ -44,9 +44,9 @@
       "sourceCode": "https://github.com/CytopiaTeam/Cytopia",
       "summary": "A city building simulation game",
       "webSite": "https://www.cytopia.net/",
-      "added": 1687896326000,
+      "added": 1687986840000,
       "packageName": "com.cytopia.cytopia",
-      "lastUpdated": 1687896326000
+      "lastUpdated": 1687986840000
     },
     {
       "authorName": "philj56",
@@ -62,10 +62,10 @@
       "sourceCode": "https://github.com/philj56/gbcc-android/",
       "summary": "Gameboy Color Emulator",
       "webSite": "https://github.com/philj56/gbcc-android/",
-      "added": 1687896328000,
+      "added": 1687986842000,
       "icon": "com.philj56.gbcc.debug.41.png",
       "packageName": "com.philj56.gbcc.debug",
-      "lastUpdated": 1687896328000
+      "lastUpdated": 1687986842000
     },
     {
       "authorName": "CenTdemeern1",
@@ -80,9 +80,27 @@
       "sourceCode": "https://github.com/CenTdemeern1/HaachamaWare",
       "summary": "HaachamaWare: The Game!",
       "webSite": "https://centdemeern1.itch.io/haachamaware",
-      "added": 1687896326000,
+      "added": 1687986840000,
       "packageName": "com.centdemeern1.HaachamaWare",
-      "lastUpdated": 1687896326000
+      "lastUpdated": 1687986840000
+    },
+    {
+      "authorName": "skyjake",
+      "categories": [
+        "Alt-Droid",
+        "Internet"
+      ],
+      "suggestedVersionName": "1.15b17",
+      "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/skyjake/lagrange/issues",
+      "license": "BSD-2-Clause",
+      "name": "Lagrange",
+      "sourceCode": "https://github.com/skyjake/lagrange",
+      "summary": "A Beautiful Gemini Client",
+      "webSite": "https://gmi.skyjake.fi/lagrange/",
+      "added": 1687986845000,
+      "packageName": "fi.skyjake.lagrange",
+      "lastUpdated": 1687986845000
     },
     {
       "authorName": "BaronKiko",
@@ -99,10 +117,10 @@
       "sourceCode": "https://github.com/BaronKiko/LauncherHijack",
       "summary": "A small Android application to circumvent the default Amazon Fire launcher",
       "webSite": "https://github.com/BaronKiko/LauncherHijack",
-      "added": 1687896325000,
+      "added": 1687986839000,
       "icon": "com.baronkiko.launcherhijack.43.png",
       "packageName": "com.baronkiko.launcherhijack",
-      "lastUpdated": 1687896325000
+      "lastUpdated": 1687986839000
     },
     {
       "authorName": "Rexuiz Team",
@@ -118,10 +136,10 @@
       "sourceCode": "https://sourceforge.net/projects/rexuiz/",
       "summary": "A pure, fast first-person shooter",
       "webSite": "https://rexuiz.com/",
-      "added": 1687896328000,
+      "added": 1687986842000,
       "icon": "com.rexuiz.app.1.png",
       "packageName": "com.rexuiz.app",
-      "lastUpdated": 1687896328000
+      "lastUpdated": 1687986842000
     },
     {
       "authorName": "holypangolin",
@@ -137,10 +155,10 @@
       "sourceCode": "https://gitlab.com/HolyPangolin/rukavychka/",
       "summary": "Find the mouse (with dragon) and the door to Rukavychka (with fox) together, then lead the mouse to the door",
       "webSite": "https://holypangolin.itch.io/rukavychka",
-      "added": 1687896327000,
+      "added": 1687986841000,
       "icon": "com.holypangolin.Rukavychka.3000105.png",
       "packageName": "com.holypangolin.Rukavychka",
-      "lastUpdated": 1687896327000
+      "lastUpdated": 1687986841000
     },
     {
       "authorName": "Frappagames",
@@ -156,10 +174,10 @@
       "sourceCode": "https://github.com/Frappagames/snake",
       "summary": "A retro-style remake of the Snake 2 game developped in JAVA with LibGDX.",
       "webSite": "https://frappagames.itch.io/snake",
-      "added": 1687896326000,
+      "added": 1687986841000,
       "icon": "com.frappagames.snake.1.png",
       "packageName": "com.frappagames.snake",
-      "lastUpdated": 1687896326000
+      "lastUpdated": 1687986841000
     },
     {
       "authorName": "TrashboxBobylev",
@@ -175,10 +193,10 @@
       "sourceCode": "https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon",
       "summary": "The expansion for Shattered Pixel Dungeon",
       "webSite": "https://trashboxbobylev.itch.io/summoning-pixel-dungeon",
-      "added": 1687896329000,
+      "added": 1687986843000,
       "icon": "com.trashboxbobylev.summoningpixeldungeon.425.png",
       "packageName": "com.trashboxbobylev.summoningpixeldungeon",
-      "lastUpdated": 1687896329000
+      "lastUpdated": 1687986843000
     },
     {
       "authorName": "maurovanetti",
@@ -194,16 +212,16 @@
       "sourceCode": "https://github.com/maurovanetti/two-interviewees",
       "summary": "Two Interviewees, a short open-source visual novel about the gender gap",
       "webSite": "https://maurovanetti.itch.io/2i",
-      "added": 1687896329000,
+      "added": 1687986843000,
       "icon": "com.rossonerd.twointerviewees.140.png",
       "packageName": "com.rossonerd.twointerviewees",
-      "lastUpdated": 1687896329000
+      "lastUpdated": 1687986843000
     }
   ],
   "packages": {
     "com.baronkiko.launcherhijack": [
       {
-        "added": 1687896325000,
+        "added": 1687986839000,
         "apkName": "com.baronkiko.launcherhijack_43.apk",
         "hash": "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4",
         "hashType": "sha256",
@@ -237,7 +255,7 @@
     ],
     "com.centdemeern1.HaachamaWare": [
       {
-        "added": 1687896326000,
+        "added": 1687986840000,
         "apkName": "com.centdemeern1.HaachamaWare_1.apk",
         "hash": "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d",
         "hashType": "sha256",
@@ -257,7 +275,7 @@
     ],
     "com.cytopia.cytopia": [
       {
-        "added": 1687896326000,
+        "added": 1687986840000,
         "apkName": "com.cytopia.cytopia_1.apk",
         "hash": "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce",
         "hashType": "sha256",
@@ -288,7 +306,7 @@
     ],
     "com.frappagames.snake": [
       {
-        "added": 1687896326000,
+        "added": 1687986841000,
         "apkName": "com.frappagames.snake_1.apk",
         "hash": "7bf8ce92c8423673cbd7488f200dbde281fd6e3be72659042bb2875c5be3c1ce",
         "hashType": "sha256",
@@ -311,7 +329,7 @@
     ],
     "com.holypangolin.Rukavychka": [
       {
-        "added": 1687896327000,
+        "added": 1687986841000,
         "apkName": "com.holypangolin.Rukavychka_3000105.apk",
         "hash": "aa59ce8e6064db36f2874883a3b073de03d68b97a3a486874137a4d34de71a2d",
         "hashType": "sha256",
@@ -328,7 +346,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1687896327000,
+        "added": 1687986841000,
         "apkName": "com.holypangolin.Rukavychka_2000105.apk",
         "hash": "5b22f5fc1b9a502554c0baaeb57cccb88c7c8aaafe601b460b8fe7d0c21a45bb",
         "hashType": "sha256",
@@ -347,7 +365,7 @@
     ],
     "com.philj56.gbcc.debug": [
       {
-        "added": 1687896328000,
+        "added": 1687986842000,
         "apkName": "com.philj56.gbcc.debug_41.apk",
         "features": [
           "android.hardware.screen.landscape"
@@ -386,7 +404,7 @@
     ],
     "com.rexuiz.app": [
       {
-        "added": 1687896328000,
+        "added": 1687986842000,
         "apkName": "com.rexuiz.app_1.apk",
         "hash": "d4060a47f781b75999bed88ddfdefd320a85d06d4d1dfd5e6027451d185e6318",
         "hashType": "sha256",
@@ -426,7 +444,7 @@
     ],
     "com.rossonerd.twointerviewees": [
       {
-        "added": 1687896329000,
+        "added": 1687986843000,
         "apkName": "com.rossonerd.twointerviewees_140.apk",
         "features": [
           "android.hardware.touchscreen"
@@ -471,7 +489,7 @@
     ],
     "com.trashboxbobylev.summoningpixeldungeon": [
       {
-        "added": 1687896329000,
+        "added": 1687986843000,
         "apkName": "com.trashboxbobylev.summoningpixeldungeon_425.apk",
         "hash": "660dc481ed5f603b6d46bdaa32de6248654c9c35d526c114ae4a14e2abd328a5",
         "hashType": "sha256",
@@ -519,7 +537,7 @@
     ],
     "dev.alchemix.bestagon.BestagonDefence": [
       {
-        "added": 1687896330000,
+        "added": 1687986844000,
         "apkName": "dev.alchemix.bestagon.BestagonDefence_1.apk",
         "hash": "44f92dd0fab5c864435091df02392efd471a3737b67545075d25d2bdfb6d5c77",
         "hashType": "sha256",
@@ -549,6 +567,46 @@
         ],
         "versionCode": 1,
         "versionName": "1.1-alpha.11"
+      }
+    ],
+    "fi.skyjake.lagrange": [
+      {
+        "added": 1687986845000,
+        "apkName": "fi.skyjake.lagrange_11505.apk",
+        "hash": "fd4294e437f174bc59c1a48c732f6a8f26714bee9fdf10ad54cdaeca473f8b55",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "fi.skyjake.lagrange",
+        "sig": "d8fcc11ea380908081c397965229afbb",
+        "signer": "3b08e8b0eb893313a38a16a93195ce68ce4f7104757950999ef5f4f1257804aa",
+        "size": 19465760,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            22
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            22
+          ]
+        ],
+        "versionCode": 11505,
+        "versionName": "1.15b17"
       }
     ]
   }

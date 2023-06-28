@@ -6,40 +6,17 @@
     "--pretty"
   ],
   "fdroiddata": {
-    "commitId": "8c59351b3d1932b0ba53708bd6510e81d7f99649",
+    "commitId": "2b2662a155e6a5290cc98781374fc69a6cae83b8",
     "isDirty": true,
     "modifiedFiles": [
-      "metadata/com.baronkiko.launcherhijack.yml",
-      "metadata/com.centdemeern1.HaachamaWare.yml",
-      "metadata/com.cytopia.cytopia.yml",
-      "metadata/com.frappagames.snake.yml",
-      "metadata/com.holypangolin.Rukavychka.yml",
-      "metadata/com.philj56.gbcc.debug.yml",
-      "metadata/com.rossonerd.twointerviewees.yml",
-      "metadata/com.trashboxbobylev.summoningpixeldungeon.yml",
-      "metadata/dev.alchemix.bestagon.BestagonDefence.yml",
-      "repo/categories.txt",
       "repo/index-v1.jar",
       "repo/index-v1.json",
-      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/status/running.json",
-      "repo/status/update.json",
       "tmp/apkcache.json"
     ],
-    "untrackedFiles": [
-      "metadata/com.rexuiz.app.yml",
-      "repo/com.rexuiz.app_1.apk",
-      "repo/icons-120/com.rexuiz.app.1.png",
-      "repo/icons-160/com.rexuiz.app.1.png",
-      "repo/icons-240/com.rexuiz.app.1.png",
-      "repo/icons-320/com.rexuiz.app.1.png",
-      "repo/icons-480/com.rexuiz.app.1.png",
-      "repo/icons-640/com.rexuiz.app.1.png",
-      "repo/icons/com.rexuiz.app.1.png"
-    ]
+    "untrackedFiles": []
   },
-  "startTimestamp": 1687925124000,
+  "startTimestamp": 1688015638000,
   "subcommand": "update"
 }

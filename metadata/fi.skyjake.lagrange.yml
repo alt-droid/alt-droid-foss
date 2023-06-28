@@ -1,0 +1,12 @@
+AuthorName: 'skyjake'
+Categories:
+- Alt-Droid
+- Internet
+License: BSD-2-Clause
+CurrentVersion: 1.15b17
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/skyjake/lagrange/issues'
+Name: Lagrange
+SourceCode: 'https://github.com/skyjake/lagrange'
+Summary: 'A Beautiful Gemini Client'
+WebSite: 'https://gmi.skyjake.fi/lagrange/'

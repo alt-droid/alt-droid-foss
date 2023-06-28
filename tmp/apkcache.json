@@ -52,7 +52,7 @@
     "size": 1590776,
     "apkName": "com.baronkiko.launcherhijack_43.apk",
     "icon": "com.baronkiko.launcherhijack.43.png",
-    "added": 1687921525.179272
+    "added": 1688012039.416244
   },
   "com.centdemeern1.HaachamaWare_1.apk": {
     "hash": "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d",
@@ -77,7 +77,7 @@
     "signer": "1b83c49cf87b871633483373b0f13a14b48d60a2ae9cd4e1c645aad5679e9fc6",
     "size": 42427706,
     "apkName": "com.centdemeern1.HaachamaWare_1.apk",
-    "added": 1687921526.07809
+    "added": 1688012040.288467
   },
   "com.cytopia.cytopia_1.apk": {
     "hash": "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce",
@@ -112,7 +112,7 @@
     "signer": "9e6e56517395e96261c829beb3d6f938167d65b8c943def14a63eb71b7a1b2fe",
     "size": 68732941,
     "apkName": "com.cytopia.cytopia_1.apk",
-    "added": 1687921526.5981
+    "added": 1688012040.804939
   },
   "com.frappagames.snake_1.apk": {
     "hash": "7bf8ce92c8423673cbd7488f200dbde281fd6e3be72659042bb2875c5be3c1ce",
@@ -155,7 +155,7 @@
     "size": 4834895,
     "apkName": "com.frappagames.snake_1.apk",
     "icon": "com.frappagames.snake.1.png",
-    "added": 1687921526.795825
+    "added": 1688012041.00069
   },
   "com.holypangolin.Rukavychka_2000105.apk": {
     "hash": "5b22f5fc1b9a502554c0baaeb57cccb88c7c8aaafe601b460b8fe7d0c21a45bb",
@@ -194,7 +194,7 @@
     "size": 18478699,
     "apkName": "com.holypangolin.Rukavychka_2000105.apk",
     "icon": "com.holypangolin.Rukavychka.2000105.png",
-    "added": 1687921527.106205
+    "added": 1688012041.27799
   },
   "com.holypangolin.Rukavychka_3000105.apk": {
     "hash": "aa59ce8e6064db36f2874883a3b073de03d68b97a3a486874137a4d34de71a2d",
@@ -233,7 +233,7 @@
     "size": 18634315,
     "apkName": "com.holypangolin.Rukavychka_3000105.apk",
     "icon": "com.holypangolin.Rukavychka.3000105.png",
-    "added": 1687921527.401551
+    "added": 1688012041.567091
   },
   "com.philj56.gbcc.debug_41.apk": {
     "hash": "03819e19c986dadce377b9fe1a1927643116697385632e83f85af19768ae3e78",
@@ -290,7 +290,7 @@
     "size": 8064149,
     "apkName": "com.philj56.gbcc.debug_41.apk",
     "icon": "com.philj56.gbcc.debug.41.png",
-    "added": 1687921528.205117
+    "added": 1688012042.379402
   },
   "com.rexuiz.app_1.apk": {
     "hash": "d4060a47f781b75999bed88ddfdefd320a85d06d4d1dfd5e6027451d185e6318",
@@ -349,7 +349,7 @@
     "size": 15357373,
     "apkName": "com.rexuiz.app_1.apk",
     "icon": "com.rexuiz.app.1.png",
-    "added": 1687921528.560976
+    "added": 1688012042.7455
   },
   "com.rossonerd.twointerviewees_140.apk": {
     "hash": "64150201389ec235b56042c502abe60bf15207817213c3fa96bc10ec0bd2058f",
@@ -405,7 +405,7 @@
     "size": 42331407,
     "apkName": "com.rossonerd.twointerviewees_140.apk",
     "icon": "com.rossonerd.twointerviewees.140.png",
-    "added": 1687921529.09735
+    "added": 1688012043.273032
   },
   "com.trashboxbobylev.summoningpixeldungeon_425.apk": {
     "hash": "660dc481ed5f603b6d46bdaa32de6248654c9c35d526c114ae4a14e2abd328a5",
@@ -463,7 +463,7 @@
     "size": 9120044,
     "apkName": "com.trashboxbobylev.summoningpixeldungeon_425.apk",
     "icon": "com.trashboxbobylev.summoningpixeldungeon.425.png",
-    "added": 1687921529.536384
+    "added": 1688012043.682239
   },
   "dev.alchemix.bestagon.BestagonDefence_1.apk": {
     "hash": "44f92dd0fab5c864435091df02392efd471a3737b67545075d25d2bdfb6d5c77",
@@ -518,6 +518,50 @@
     "size": 67863154,
     "apkName": "dev.alchemix.bestagon.BestagonDefence_1.apk",
     "icon": "dev.alchemix.bestagon.BestagonDefence.1.png",
-    "added": 1687921530.545699
+    "added": 1688012044.684212
+  },
+  "fi.skyjake.lagrange_11505.apk": {
+    "hash": "fd4294e437f174bc59c1a48c732f6a8f26714bee9fdf10ad54cdaeca473f8b55",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        22
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        22
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "fi.skyjake.lagrange",
+    "versionCode": 11505,
+    "name": "Lagrange",
+    "versionName": "1.15b17",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 32,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "d8fcc11ea380908081c397965229afbb",
+    "signer": "3b08e8b0eb893313a38a16a93195ce68ce4f7104757950999ef5f4f1257804aa",
+    "size": 19465760,
+    "apkName": "fi.skyjake.lagrange_11505.apk",
+    "added": 1688012045.056565
   }
 }

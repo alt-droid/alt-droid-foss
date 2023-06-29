@@ -1,0 +1,12 @@
+AuthorName: 'BilbolDev'
+Categories:
+- Alt-Droid
+- Games
+License: GPL-3.0
+CurrentVersion: 0.5.1
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/bilbolPrime/SPD/issues'
+Name: Skillful Pixel Dungeon
+SourceCode: 'https://github.com/bilbolPrime/SPD'
+Summary: 'A roguelike RPG game with 4 classes, 25 levels and 5 unique bosses'
+WebSite: 'https://github.com/bilbolPrime/SPD'

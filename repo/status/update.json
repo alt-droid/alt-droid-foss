@@ -9,32 +9,19 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1687997352303,
+  "endTimestamp": 1688170067498,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "ddcca6b79c37ad3933763dbae7e43236507f2a9b",
+    "commitId": "d75bf0de42f811afc474c6b1763f2fc98352b100",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
-      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/status/running.json",
-      "repo/status/update.json",
       "tmp/apkcache.json"
     ],
-    "untrackedFiles": [
-      "metadata/com.bilboldev.pixeldungeonskills.yml",
-      "repo/com.bilboldev.pixeldungeonskills_129.apk",
-      "repo/icons-120/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons-160/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons-240/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons-320/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons-480/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons-640/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons/com.bilboldev.pixeldungeonskills.129.png"
-    ]
+    "untrackedFiles": []
   },
   "jarsigner": "/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/jarsigner",
   "keytool": "/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/keytool",
@@ -50,7 +37,8 @@
     "com.rossonerd.twointerviewees",
     "com.trashboxbobylev.summoningpixeldungeon",
     "dev.alchemix.bestagon.BestagonDefence",
-    "fi.skyjake.lagrange"
+    "fi.skyjake.lagrange",
+    "io.anuke.mindustry.classic"
   ],
   "noPackages": [
     "com.baronkiko.launcherhijack",
@@ -64,7 +52,8 @@
     "com.rossonerd.twointerviewees",
     "com.trashboxbobylev.summoningpixeldungeon",
     "dev.alchemix.bestagon.BestagonDefence",
-    "fi.skyjake.lagrange"
+    "fi.skyjake.lagrange",
+    "io.anuke.mindustry.classic"
   ],
   "noUpdateCheck": [
     "com.baronkiko.launcherhijack",
@@ -78,8 +67,9 @@
     "com.rossonerd.twointerviewees",
     "com.trashboxbobylev.summoningpixeldungeon",
     "dev.alchemix.bestagon.BestagonDefence",
-    "fi.skyjake.lagrange"
+    "fi.skyjake.lagrange",
+    "io.anuke.mindustry.classic"
   ],
-  "startTimestamp": 1688026143000,
+  "startTimestamp": 1688198858000,
   "subcommand": "update"
 }

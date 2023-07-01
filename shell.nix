@@ -4,9 +4,13 @@
   } }:
 pkgs.mkShell {
   nativeBuildInputs = with pkgs; [
-    android-studio
-    fdroidserver
+    android-studio # The Official IDE for Android (stable channel)
+    fdroidserver # Server and tools for F-Droid, the Free Software repository system for Android
+    git # Distributed version control system
+    yq-go # Portable command-line YAML processor
   ];
-  buildInputs = [ pkgs.jdk8 ];
+  buildInputs= with pkgs; [
+    jdk8 # The open-source Java Development Kit
+  ];
   ANDROID_HOME="${pkgs.androidenv.androidPkgs_9_0.androidsdk}/libexec/android-sdk";
 }

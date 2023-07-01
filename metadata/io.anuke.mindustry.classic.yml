@@ -1,0 +1,12 @@
+AuthorName: 'Anuken'
+Categories:
+- Alt-Droid
+- Games
+License: GPL-3.0
+CurrentVersion: b40
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: Mindustry Classic
+SourceCode: 'https://github.com/Anuken/Mindustry-Classic'
+Summary: 'The classic version of Mindustry'
+WebSite: 'https://anuke.itch.io/mindustry-classic'

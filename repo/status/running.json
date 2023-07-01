@@ -6,30 +6,17 @@
     "--pretty"
   ],
   "fdroiddata": {
-    "commitId": "ddcca6b79c37ad3933763dbae7e43236507f2a9b",
+    "commitId": "d75bf0de42f811afc474c6b1763f2fc98352b100",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
-      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/status/running.json",
-      "repo/status/update.json",
       "tmp/apkcache.json"
     ],
-    "untrackedFiles": [
-      "metadata/com.bilboldev.pixeldungeonskills.yml",
-      "repo/com.bilboldev.pixeldungeonskills_129.apk",
-      "repo/icons-120/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons-160/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons-240/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons-320/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons-480/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons-640/com.bilboldev.pixeldungeonskills.129.png",
-      "repo/icons/com.bilboldev.pixeldungeonskills.129.png"
-    ]
+    "untrackedFiles": []
   },
-  "startTimestamp": 1688026143000,
+  "startTimestamp": 1688198858000,
   "subcommand": "update"
 }

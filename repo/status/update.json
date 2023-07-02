@@ -9,14 +9,12 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1688332529648,
+  "endTimestamp": 1688335889552,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "90f6349118681027d6793a9ce5e22f4be3a63334",
+    "commitId": "9dc89047c86f32542041f0449e8fc223798c0461",
     "isDirty": true,
     "modifiedFiles": [
-      "nix/sources.json",
-      "nix/sources.nix",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.html",
@@ -27,17 +25,8 @@
       "tmp/apkcache.json"
     ],
     "untrackedFiles": [
-      "metadata/air.air.Ending.yml",
-      "metadata/harmonyhoney.tinycrate.yml",
-      "repo/air.air.Ending_2000000.apk",
-      "repo/harmonyhoney.tinycrate_1.apk",
-      "repo/icons-120/air.air.Ending.2000000.png",
-      "repo/icons-160/air.air.Ending.2000000.png",
-      "repo/icons-240/air.air.Ending.2000000.png",
-      "repo/icons-320/air.air.Ending.2000000.png",
-      "repo/icons-480/air.air.Ending.2000000.png",
-      "repo/icons-640/air.air.Ending.2000000.png",
-      "repo/icons/air.air.Ending.2000000.png"
+      "metadata/org.godotengine.supertuxclassic.yml",
+      "repo/org.godotengine.supertuxclassic_6.apk"
     ]
   },
   "jarsigner": "/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/jarsigner",
@@ -58,6 +47,7 @@
     "fi.skyjake.lagrange",
     "harmonyhoney.tinycrate",
     "io.anuke.mindustry.classic",
+    "org.godotengine.supertuxclassic",
     "org.thecodedeposit.aerofoil"
   ],
   "noPackages": [
@@ -76,6 +66,7 @@
     "fi.skyjake.lagrange",
     "harmonyhoney.tinycrate",
     "io.anuke.mindustry.classic",
+    "org.godotengine.supertuxclassic",
     "org.thecodedeposit.aerofoil"
   ],
   "noUpdateCheck": [
@@ -94,8 +85,9 @@
     "fi.skyjake.lagrange",
     "harmonyhoney.tinycrate",
     "io.anuke.mindustry.classic",
+    "org.godotengine.supertuxclassic",
     "org.thecodedeposit.aerofoil"
   ],
-  "startTimestamp": 1688361319000,
+  "startTimestamp": 1688364678000,
   "subcommand": "update"
 }

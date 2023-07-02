@@ -1,0 +1,12 @@
+AuthorName: 'Alzter'
+Categories:
+- Alt-Droid
+- Games
+License: GPL-3.0
+CurrentVersion: 0.4.0
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/Alzter/SuperTux-Classic/issues'
+Name: SuperTux Classic
+SourceCode: 'https://github.com/Alzter/SuperTux-Classic'
+Summary: 'A remake of SuperTux Milestone 1 (versions 0.1.0 - 0.1.4) created from the ground up in Godot! '
+WebSite: 'https://alzter-s.itch.io/supertux-classic'

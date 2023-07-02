@@ -6,17 +6,30 @@
     "--pretty"
   ],
   "fdroiddata": {
-    "commitId": "d75bf0de42f811afc474c6b1763f2fc98352b100",
+    "commitId": "fafdbdb6f1c9b0b737eba8ede96bcf7c15842f98",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
+      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json",
       "tmp/apkcache.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "metadata/org.thecodedeposit.aerofoil.yml",
+      "repo/icons-120/org.thecodedeposit.aerofoil.16.png",
+      "repo/icons-160/org.thecodedeposit.aerofoil.16.png",
+      "repo/icons-240/org.thecodedeposit.aerofoil.16.png",
+      "repo/icons-320/org.thecodedeposit.aerofoil.16.png",
+      "repo/icons-480/org.thecodedeposit.aerofoil.16.png",
+      "repo/icons-640/org.thecodedeposit.aerofoil.16.png",
+      "repo/icons/org.thecodedeposit.aerofoil.16.png",
+      "repo/org.thecodedeposit.aerofoil_16.apk"
+    ]
   },
-  "startTimestamp": 1688198858000,
+  "startTimestamp": 1688359137000,
   "subcommand": "update"
 }

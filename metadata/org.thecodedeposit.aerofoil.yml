@@ -1,0 +1,12 @@
+AuthorName: 'elasota'
+Categories:
+- Alt-Droid
+- Games
+License: GPL-2.0
+CurrentVersion: 1.1.2
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/elasota/Aerofoil/issues'
+Name: Aerofoil
+SourceCode: 'https://github.com/elasota/Aerofoil'
+Summary: 'Port of Glider PRO, the classic Macintosh paper airplane game'
+WebSite: 'https://galeforcegames.itch.io/aerofoil'

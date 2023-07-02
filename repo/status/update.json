@@ -9,12 +9,14 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1688330346936,
+  "endTimestamp": 1688332529648,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "fafdbdb6f1c9b0b737eba8ede96bcf7c15842f98",
+    "commitId": "90f6349118681027d6793a9ce5e22f4be3a63334",
     "isDirty": true,
     "modifiedFiles": [
+      "nix/sources.json",
+      "nix/sources.nix",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.html",
@@ -25,20 +27,23 @@
       "tmp/apkcache.json"
     ],
     "untrackedFiles": [
-      "metadata/org.thecodedeposit.aerofoil.yml",
-      "repo/icons-120/org.thecodedeposit.aerofoil.16.png",
-      "repo/icons-160/org.thecodedeposit.aerofoil.16.png",
-      "repo/icons-240/org.thecodedeposit.aerofoil.16.png",
-      "repo/icons-320/org.thecodedeposit.aerofoil.16.png",
-      "repo/icons-480/org.thecodedeposit.aerofoil.16.png",
-      "repo/icons-640/org.thecodedeposit.aerofoil.16.png",
-      "repo/icons/org.thecodedeposit.aerofoil.16.png",
-      "repo/org.thecodedeposit.aerofoil_16.apk"
+      "metadata/air.air.Ending.yml",
+      "metadata/harmonyhoney.tinycrate.yml",
+      "repo/air.air.Ending_2000000.apk",
+      "repo/harmonyhoney.tinycrate_1.apk",
+      "repo/icons-120/air.air.Ending.2000000.png",
+      "repo/icons-160/air.air.Ending.2000000.png",
+      "repo/icons-240/air.air.Ending.2000000.png",
+      "repo/icons-320/air.air.Ending.2000000.png",
+      "repo/icons-480/air.air.Ending.2000000.png",
+      "repo/icons-640/air.air.Ending.2000000.png",
+      "repo/icons/air.air.Ending.2000000.png"
     ]
   },
   "jarsigner": "/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/jarsigner",
   "keytool": "/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/keytool",
   "needsUpdate": [
+    "air.air.Ending",
     "com.baronkiko.launcherhijack",
     "com.bilboldev.pixeldungeonskills",
     "com.centdemeern1.HaachamaWare",
@@ -51,10 +56,12 @@
     "com.trashboxbobylev.summoningpixeldungeon",
     "dev.alchemix.bestagon.BestagonDefence",
     "fi.skyjake.lagrange",
+    "harmonyhoney.tinycrate",
     "io.anuke.mindustry.classic",
     "org.thecodedeposit.aerofoil"
   ],
   "noPackages": [
+    "air.air.Ending",
     "com.baronkiko.launcherhijack",
     "com.bilboldev.pixeldungeonskills",
     "com.centdemeern1.HaachamaWare",
@@ -67,10 +74,12 @@
     "com.trashboxbobylev.summoningpixeldungeon",
     "dev.alchemix.bestagon.BestagonDefence",
     "fi.skyjake.lagrange",
+    "harmonyhoney.tinycrate",
     "io.anuke.mindustry.classic",
     "org.thecodedeposit.aerofoil"
   ],
   "noUpdateCheck": [
+    "air.air.Ending",
     "com.baronkiko.launcherhijack",
     "com.bilboldev.pixeldungeonskills",
     "com.centdemeern1.HaachamaWare",
@@ -83,9 +92,10 @@
     "com.trashboxbobylev.summoningpixeldungeon",
     "dev.alchemix.bestagon.BestagonDefence",
     "fi.skyjake.lagrange",
+    "harmonyhoney.tinycrate",
     "io.anuke.mindustry.classic",
     "org.thecodedeposit.aerofoil"
   ],
-  "startTimestamp": 1688359137000,
+  "startTimestamp": 1688361319000,
   "subcommand": "update"
 }

@@ -1,0 +1,11 @@
+AuthorName: 'HarmonyHoney'
+Categories:
+- Alt-Droid
+- Games
+License: Unlicense
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/HarmonyHoney/tiny_crate/issues'
+Name: Tiny Crate
+SourceCode: 'https://github.com/HarmonyHoney/tiny_crate/'
+Summary: 'Crate Chucking Puzzle Platformer Game'
+WebSite: 'https://harmonyhoney.itch.io/tinycrate'

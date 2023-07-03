@@ -9,3 +9,4 @@ Name: Ending
 SourceCode: 'https://github.com/st33d/Ending'
 Summary: 'Roguelike puzzle game '
 WebSite: 'https://st33d.itch.io/ending'
+UpdateCheckMode: Static

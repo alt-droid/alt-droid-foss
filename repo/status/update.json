@@ -9,24 +9,34 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1688335889552,
+  "endTimestamp": 1688412114329,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "9dc89047c86f32542041f0449e8fc223798c0461",
+    "commitId": "81358c149c9a7836df0979224fbeedc637907bf6",
     "isDirty": true,
     "modifiedFiles": [
+      ".github/workflows/static.yml",
+      "README.md",
+      "repo/icons/icon.png",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.html",
       "repo/index.jar",
+      "repo/index.png",
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json",
       "tmp/apkcache.json"
     ],
     "untrackedFiles": [
-      "metadata/org.godotengine.supertuxclassic.yml",
-      "repo/org.godotengine.supertuxclassic_6.apk"
+      "archive/icons/icon.png",
+      "archive/index-v1.jar",
+      "archive/index-v1.json",
+      "archive/index.css",
+      "archive/index.html",
+      "archive/index.jar",
+      "archive/index.png",
+      "archive/index.xml"
     ]
   },
   "jarsigner": "/nix/store/269k0dnj05ssq5z277azk4zqg9f0dh66-openjdk-8u352-ga/bin/jarsigner",
@@ -88,6 +98,6 @@
     "org.godotengine.supertuxclassic",
     "org.thecodedeposit.aerofoil"
   ],
-  "startTimestamp": 1688364678000,
+  "startTimestamp": 1688440901000,
   "subcommand": "update"
 }

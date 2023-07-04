@@ -1,7 +1,7 @@
 {
   "repo": {
-    "timestamp": 1688412112000,
-    "version": 20001,
+    "timestamp": 1688499846000,
+    "version": 20002,
     "name": "Alt-Droid FOSS",
     "icon": "icon.png",
     "address": "https://raw.githubusercontent.com/alt-droid/alt-droid-foss/fdroid/repo",
@@ -26,10 +26,10 @@
       "sourceCode": "https://github.com/elasota/Aerofoil",
       "summary": "Port of Glider PRO, the classic Macintosh paper airplane game",
       "webSite": "https://galeforcegames.itch.io/aerofoil",
-      "added": 1688412110000,
+      "added": 1688499843000,
       "icon": "org.thecodedeposit.aerofoil.16.png",
       "packageName": "org.thecodedeposit.aerofoil",
-      "lastUpdated": 1688412110000
+      "lastUpdated": 1688499843000
     },
     {
       "authorName": "Greenfoot5",
@@ -45,10 +45,10 @@
       "sourceCode": "https://github.com/Greenfoot5/Bestagon-Defence",
       "summary": "A tower defence game of hexagons with roguelike elements. Made using Unity and Inkscape",
       "webSite": "https://greenfoot5.itch.io/bestagon-defence",
-      "added": 1688412107000,
+      "added": 1688499841000,
       "icon": "dev.alchemix.bestagon.BestagonDefence.1.png",
       "packageName": "dev.alchemix.bestagon.BestagonDefence",
-      "lastUpdated": 1688412107000
+      "lastUpdated": 1688499841000
     },
     {
       "authorName": "CytopiaTeam",
@@ -63,9 +63,9 @@
       "sourceCode": "https://github.com/CytopiaTeam/Cytopia",
       "summary": "A city building simulation game",
       "webSite": "https://www.cytopia.net/",
-      "added": 1688412103000,
+      "added": 1688499837000,
       "packageName": "com.cytopia.cytopia",
-      "lastUpdated": 1688412103000
+      "lastUpdated": 1688499837000
     },
     {
       "authorName": "st33d",
@@ -80,10 +80,10 @@
       "sourceCode": "https://github.com/st33d/Ending",
       "summary": "Roguelike puzzle game ",
       "webSite": "https://st33d.itch.io/ending",
-      "added": 1688412101000,
+      "added": 1688499834000,
       "icon": "air.air.Ending.2000000.png",
       "packageName": "air.air.Ending",
-      "lastUpdated": 1688412101000
+      "lastUpdated": 1688499834000
     },
     {
       "authorName": "philj56",
@@ -99,10 +99,10 @@
       "sourceCode": "https://github.com/philj56/gbcc-android/",
       "summary": "Gameboy Color Emulator",
       "webSite": "https://github.com/philj56/gbcc-android/",
-      "added": 1688412105000,
+      "added": 1688499838000,
       "icon": "com.philj56.gbcc.debug.41.png",
       "packageName": "com.philj56.gbcc.debug",
-      "lastUpdated": 1688412105000
+      "lastUpdated": 1688499838000
     },
     {
       "authorName": "CenTdemeern1",
@@ -117,9 +117,9 @@
       "sourceCode": "https://github.com/CenTdemeern1/HaachamaWare",
       "summary": "HaachamaWare: The Game!",
       "webSite": "https://centdemeern1.itch.io/haachamaware",
-      "added": 1688412103000,
+      "added": 1688499836000,
       "packageName": "com.centdemeern1.HaachamaWare",
-      "lastUpdated": 1688412103000
+      "lastUpdated": 1688499836000
     },
     {
       "authorName": "skyjake",
@@ -135,9 +135,9 @@
       "sourceCode": "https://github.com/skyjake/lagrange",
       "summary": "A Beautiful Gemini Client",
       "webSite": "https://gmi.skyjake.fi/lagrange/",
-      "added": 1688412108000,
+      "added": 1688499841000,
       "packageName": "fi.skyjake.lagrange",
-      "lastUpdated": 1688412108000
+      "lastUpdated": 1688499841000
     },
     {
       "authorName": "BaronKiko",
@@ -154,10 +154,10 @@
       "sourceCode": "https://github.com/BaronKiko/LauncherHijack",
       "summary": "A small Android application to circumvent the default Amazon Fire launcher",
       "webSite": "https://github.com/BaronKiko/LauncherHijack",
-      "added": 1688412102000,
+      "added": 1688499835000,
       "icon": "com.baronkiko.launcherhijack.43.png",
       "packageName": "com.baronkiko.launcherhijack",
-      "lastUpdated": 1688412102000
+      "lastUpdated": 1688499835000
     },
     {
       "authorName": "Anuken",
@@ -172,10 +172,29 @@
       "sourceCode": "https://github.com/Anuken/Mindustry-Classic",
       "summary": "The classic version of Mindustry",
       "webSite": "https://anuke.itch.io/mindustry-classic",
-      "added": 1688412108000,
+      "added": 1688499842000,
       "icon": "io.anuke.mindustry.classic.82.png",
       "packageName": "io.anuke.mindustry.classic",
-      "lastUpdated": 1688412108000
+      "lastUpdated": 1688499842000
+    },
+    {
+      "authorName": "JunoNgx",
+      "categories": [
+        "Alt-Droid",
+        "Games"
+      ],
+      "suggestedVersionName": "1062",
+      "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/JunoNgx/maeko/issues",
+      "license": "MIT",
+      "name": "profectus.4",
+      "sourceCode": "https://github.com/JunoNgx/maeko",
+      "summary": "Accelerometer-based experimental narrative project ",
+      "webSite": "https://junongx.itch.io/profectus4",
+      "added": 1688499837000,
+      "icon": "com.junongx.profectus4.5.png",
+      "packageName": "com.junongx.profectus4",
+      "lastUpdated": 1688499837000
     },
     {
       "authorName": "Rexuiz Team",
@@ -191,10 +210,10 @@
       "sourceCode": "https://sourceforge.net/projects/rexuiz/",
       "summary": "A pure, fast first-person shooter",
       "webSite": "https://rexuiz.com/",
-      "added": 1688412105000,
+      "added": 1688499839000,
       "icon": "com.rexuiz.app.1.png",
       "packageName": "com.rexuiz.app",
-      "lastUpdated": 1688412105000
+      "lastUpdated": 1688499839000
     },
     {
       "authorName": "holypangolin",
@@ -210,10 +229,10 @@
       "sourceCode": "https://gitlab.com/HolyPangolin/rukavychka/",
       "summary": "Find the mouse (with dragon) and the door to Rukavychka (with fox) together, then lead the mouse to the door",
       "webSite": "https://holypangolin.itch.io/rukavychka",
-      "added": 1688412104000,
+      "added": 1688499837000,
       "icon": "com.holypangolin.Rukavychka.3000105.png",
       "packageName": "com.holypangolin.Rukavychka",
-      "lastUpdated": 1688412104000
+      "lastUpdated": 1688499837000
     },
     {
       "authorName": "BilbolDev",
@@ -229,10 +248,10 @@
       "sourceCode": "https://github.com/bilbolPrime/SPD",
       "summary": "A roguelike RPG game with 4 classes, 25 levels and 5 unique bosses",
       "webSite": "https://github.com/bilbolPrime/SPD",
-      "added": 1688412102000,
+      "added": 1688499835000,
       "icon": "com.bilboldev.pixeldungeonskills.129.png",
       "packageName": "com.bilboldev.pixeldungeonskills",
-      "lastUpdated": 1688412102000
+      "lastUpdated": 1688499835000
     },
     {
       "authorName": "Frappagames",
@@ -248,10 +267,10 @@
       "sourceCode": "https://github.com/Frappagames/snake",
       "summary": "A retro-style remake of the Snake 2 game developped in JAVA with LibGDX.",
       "webSite": "https://frappagames.itch.io/snake",
-      "added": 1688412104000,
+      "added": 1688499837000,
       "icon": "com.frappagames.snake.1.png",
       "packageName": "com.frappagames.snake",
-      "lastUpdated": 1688412104000
+      "lastUpdated": 1688499837000
     },
     {
       "authorName": "TrashboxBobylev",
@@ -267,10 +286,10 @@
       "sourceCode": "https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon",
       "summary": "The expansion for Shattered Pixel Dungeon",
       "webSite": "https://trashboxbobylev.itch.io/summoning-pixel-dungeon",
-      "added": 1688412106000,
+      "added": 1688499839000,
       "icon": "com.trashboxbobylev.summoningpixeldungeon.425.png",
       "packageName": "com.trashboxbobylev.summoningpixeldungeon",
-      "lastUpdated": 1688412106000
+      "lastUpdated": 1688499839000
     },
     {
       "authorName": "Alzter",
@@ -286,9 +305,9 @@
       "sourceCode": "https://github.com/Alzter/SuperTux-Classic",
       "summary": "A remake of SuperTux Milestone 1 (versions 0.1.0 - 0.1.4) created from the ground up in Godot! ",
       "webSite": "https://alzter-s.itch.io/supertux-classic",
-      "added": 1688412109000,
+      "added": 1688499843000,
       "packageName": "org.godotengine.supertuxclassic",
-      "lastUpdated": 1688412109000
+      "lastUpdated": 1688499843000
     },
     {
       "authorName": "HarmonyHoney",
@@ -303,9 +322,9 @@
       "sourceCode": "https://github.com/HarmonyHoney/tiny_crate/",
       "summary": "Crate Chucking Puzzle Platformer Game",
       "webSite": "https://harmonyhoney.itch.io/tinycrate",
-      "added": 1688412108000,
+      "added": 1688499841000,
       "packageName": "harmonyhoney.tinycrate",
-      "lastUpdated": 1688412108000
+      "lastUpdated": 1688499841000
     },
     {
       "authorName": "maurovanetti",
@@ -321,16 +340,16 @@
       "sourceCode": "https://github.com/maurovanetti/two-interviewees",
       "summary": "Two Interviewees, a short open-source visual novel about the gender gap",
       "webSite": "https://maurovanetti.itch.io/2i",
-      "added": 1688412106000,
+      "added": 1688499839000,
       "icon": "com.rossonerd.twointerviewees.140.png",
       "packageName": "com.rossonerd.twointerviewees",
-      "lastUpdated": 1688412106000
+      "lastUpdated": 1688499839000
     }
   ],
   "packages": {
     "air.air.Ending": [
       {
-        "added": 1688412101000,
+        "added": 1688499834000,
         "apkName": "air.air.Ending_2000000.apk",
         "features": [
           "android.hardware.touchscreen.multitouch"
@@ -358,7 +377,7 @@
     ],
     "com.baronkiko.launcherhijack": [
       {
-        "added": 1688412102000,
+        "added": 1688499835000,
         "apkName": "com.baronkiko.launcherhijack_43.apk",
         "hash": "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4",
         "hashType": "sha256",
@@ -392,7 +411,7 @@
     ],
     "com.bilboldev.pixeldungeonskills": [
       {
-        "added": 1688412102000,
+        "added": 1688499835000,
         "apkName": "com.bilboldev.pixeldungeonskills_129.apk",
         "hash": "e199cc153d6288af0b8bf5255a6a22259a9fb310acb6768a73de0ccede2ccf62",
         "hashType": "sha256",
@@ -418,7 +437,7 @@
     ],
     "com.centdemeern1.HaachamaWare": [
       {
-        "added": 1688412103000,
+        "added": 1688499836000,
         "apkName": "com.centdemeern1.HaachamaWare_1.apk",
         "hash": "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d",
         "hashType": "sha256",
@@ -438,7 +457,7 @@
     ],
     "com.cytopia.cytopia": [
       {
-        "added": 1688412103000,
+        "added": 1688499837000,
         "apkName": "com.cytopia.cytopia_1.apk",
         "hash": "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce",
         "hashType": "sha256",
@@ -469,7 +488,7 @@
     ],
     "com.frappagames.snake": [
       {
-        "added": 1688412104000,
+        "added": 1688499837000,
         "apkName": "com.frappagames.snake_1.apk",
         "hash": "7bf8ce92c8423673cbd7488f200dbde281fd6e3be72659042bb2875c5be3c1ce",
         "hashType": "sha256",
@@ -492,7 +511,7 @@
     ],
     "com.holypangolin.Rukavychka": [
       {
-        "added": 1688412104000,
+        "added": 1688499837000,
         "apkName": "com.holypangolin.Rukavychka_3000105.apk",
         "hash": "aa59ce8e6064db36f2874883a3b073de03d68b97a3a486874137a4d34de71a2d",
         "hashType": "sha256",
@@ -509,7 +528,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1688412104000,
+        "added": 1688499837000,
         "apkName": "com.holypangolin.Rukavychka_2000105.apk",
         "hash": "5b22f5fc1b9a502554c0baaeb57cccb88c7c8aaafe601b460b8fe7d0c21a45bb",
         "hashType": "sha256",
@@ -526,9 +545,28 @@
         "versionName": "1.0"
       }
     ],
+    "com.junongx.profectus4": [
+      {
+        "added": 1688499837000,
+        "apkName": "com.junongx.profectus4_5.apk",
+        "hash": "568233dda9e8ea6c29f07095b6af3b3f1fc19687108f90057aea0e23bf2c0106",
+        "hashType": "sha256",
+        "minSdkVersion": 10,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.junongx.profectus4",
+        "sig": "539ca6214755be19d50e5e516b39b959",
+        "signer": "5ac4de9c4031bd12daa71046d430e57a355d142e7975f5764bb65cd853aa24f2",
+        "size": 4839661,
+        "targetSdkVersion": 12,
+        "versionCode": 5,
+        "versionName": "1.0.6.2"
+      }
+    ],
     "com.philj56.gbcc.debug": [
       {
-        "added": 1688412105000,
+        "added": 1688499838000,
         "apkName": "com.philj56.gbcc.debug_41.apk",
         "features": [
           "android.hardware.screen.landscape"
@@ -567,7 +605,7 @@
     ],
     "com.rexuiz.app": [
       {
-        "added": 1688412105000,
+        "added": 1688499839000,
         "apkName": "com.rexuiz.app_1.apk",
         "hash": "d4060a47f781b75999bed88ddfdefd320a85d06d4d1dfd5e6027451d185e6318",
         "hashType": "sha256",
@@ -607,7 +645,7 @@
     ],
     "com.rossonerd.twointerviewees": [
       {
-        "added": 1688412106000,
+        "added": 1688499839000,
         "apkName": "com.rossonerd.twointerviewees_140.apk",
         "features": [
           "android.hardware.touchscreen"
@@ -652,7 +690,7 @@
     ],
     "com.trashboxbobylev.summoningpixeldungeon": [
       {
-        "added": 1688412106000,
+        "added": 1688499839000,
         "apkName": "com.trashboxbobylev.summoningpixeldungeon_425.apk",
         "hash": "660dc481ed5f603b6d46bdaa32de6248654c9c35d526c114ae4a14e2abd328a5",
         "hashType": "sha256",
@@ -700,7 +738,7 @@
     ],
     "dev.alchemix.bestagon.BestagonDefence": [
       {
-        "added": 1688412107000,
+        "added": 1688499841000,
         "apkName": "dev.alchemix.bestagon.BestagonDefence_1.apk",
         "hash": "44f92dd0fab5c864435091df02392efd471a3737b67545075d25d2bdfb6d5c77",
         "hashType": "sha256",
@@ -734,7 +772,7 @@
     ],
     "fi.skyjake.lagrange": [
       {
-        "added": 1688412108000,
+        "added": 1688499841000,
         "apkName": "fi.skyjake.lagrange_11505.apk",
         "hash": "fd4294e437f174bc59c1a48c732f6a8f26714bee9fdf10ad54cdaeca473f8b55",
         "hashType": "sha256",
@@ -774,7 +812,7 @@
     ],
     "harmonyhoney.tinycrate": [
       {
-        "added": 1688412108000,
+        "added": 1688499841000,
         "apkName": "harmonyhoney.tinycrate_1.apk",
         "hash": "a97d5239f5bcd5724f5e275b84d14021d130bd56c7dcd425f9ff750f6eeb3175",
         "hashType": "sha256",
@@ -794,7 +832,7 @@
     ],
     "io.anuke.mindustry.classic": [
       {
-        "added": 1688412108000,
+        "added": 1688499842000,
         "apkName": "io.anuke.mindustry.classic_82.apk",
         "hash": "d05c88daf6eae6cb6a2bce511516f6f2588834b793205e3a58453cf8b702af03",
         "hashType": "sha256",
@@ -831,7 +869,7 @@
     ],
     "org.godotengine.supertuxclassic": [
       {
-        "added": 1688412109000,
+        "added": 1688499843000,
         "apkName": "org.godotengine.supertuxclassic_6.apk",
         "hash": "5bbf2b5cd6efd6674c786befb8dd4a7b20756fc1817edc0477eb255a1f6b7d0e",
         "hashType": "sha256",
@@ -865,7 +903,7 @@
     ],
     "org.thecodedeposit.aerofoil": [
       {
-        "added": 1688412110000,
+        "added": 1688499843000,
         "apkName": "org.thecodedeposit.aerofoil_16.apk",
         "hash": "69ef74fb7d957df8726b6235f0c1bba5e83bbbfd12f2679d07a3edbb35b9cc24",
         "hashType": "sha256",

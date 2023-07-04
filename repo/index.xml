@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Alt-Droid FOSS" pubkey="308204fd308202e5a00302010202044332f1a1300d06092a864886f70d01010b0500302e3110300e060355040b1307462d44726f6964311a3018060355040313116e69786f732d776f726b73746174696f6e3020170d3233303730333138353930315a180f32303530313131383138353930315a302e3110300e060355040b1307462d44726f6964311a3018060355040313116e69786f732d776f726b73746174696f6e30820222300d06092a864886f70d01010105000382020f003082020a0282020100dad9d798a36ae722b717132f0f259acd7558808bde3f111606c33d0a60d202a453e5052d37857d72d93a762110c7270d2f26705f5c5229609689078f3c67c46edf7b4c2586e09e2e0d8d0a81432730b1c3fc84a0ee8dedde3c05d670b47fbe9a796fbf7585b5072d945c1d1cca72c140adb61a9b607bd1311bea0f69c966f509e70de16c33200a6d18cda1bcded7144b592eaedca6c2edfed70d8e2ca600b6936786b888970e980c900a077aafa089f2d0363e90abd2eff1c2c4c2613f1e03112b0b8f3edb5761daf08210140071e4ff788c54a7165eee60bb6bb3adda37d6db3ebd0d9e8e9f36c7451955eb5f3a1ee60b6e2657536d6db5ba4a1fc05a870e3a920ab32facc2f7b930c7dfb536408170278b8fd8d5634bd39f9d98536c25940d2ea746f3d016c7f21aea633cbdb6d1af9784e58b3757a4abc341126f52bb6d714e7963fa4ef977452b0242b148cf106f3ebb49b0b9d18872954b3aa2542bf9a40de561d43cdb5b26689f7f8c3abb5b468530c08ec36dcb66a04c14a252b3e2f0dbf8118f2326dd81cedd48897a3432191608f355b6ca960e06119db11a391ed94a35205bd716b5446cbf7c84e8aca3a35821525296be3ce0f59d818421a2fe4b825ad0bf03d0ac021fba673a2bb30558927e9df459a800f79d00751cd067acb7060a7ca5ff14f44061c7905a230d8fd81f396baeb26077a0a4863780f03af69f0203010001a321301f301d0603551d0e04160414c2bb49a71c5c7bbeaaa5258838b764fb2fc71231300d06092a864886f70d01010b05000382020100ad6b37a6a57e83c9b6319193c78e302af3d45fad7dba40b7ec3c4d945ce3339387f47541c8cb69adac37e856ea20e5cf282edc522049e418b891a43d390c5a88e90f61bf7835984153ab18e9a88bb04b15e7fddfe07ed23b205aecc8e5325a0b1fc558decbb5666c06bec3f300f8dfacaf30bff73d3d26c84683694ed5977486397c5571cd1e7c5e821cce5de61a370a94bf5472032fd4b35ea03b439f932f2eea0b96310a8f8cf5fb6b437fa61c31958417fb4afb71aa613c95860ac77762af2985af4d29239fc0efb1db9875bee857fe6e34c2a3d6489b0ac5190c42647ce8f3adc8b5d4f4752f50ca698bc214fbcbeb26c0aff5b4982f467d20032998fef5f3949e04d20de8aea496450e92f62e94710dd31c41b5c8044ef8c48a6c69da51faf8fe24c18ae0d5e9bd9d86433b50cbb97c3733d707b05e579d9a250af80b592920e38e6c92e53fecfa3b675b1b856de0b5d70b76c442ac03b3219e3797a151e8e523f1d12492e58f87f128f2f44c6019d07be2df9a3f9a0f052d7389139e84273b303ea8652d34451b55409bac7d8c6ae30396fd237281aa0aefdadd1e4cb938440a651f981e1eb1126001fb0743b7b30e635567b96f566d1c852e175f28e3af680242f43b8a2b9fbbd0cc002e4ae5198d13b793ae8a081c7bcc7dd49c817f478cdf2605abf079adb1d0558a565028c4e2a9cfcb4d0e5a75117f13e6af16e4" timestamp="1688412112" url="https://raw.githubusercontent.com/alt-droid/alt-droid-foss/fdroid/repo" version="20001">
+	<repo icon="icon.png" name="Alt-Droid FOSS" pubkey="308204fd308202e5a00302010202044332f1a1300d06092a864886f70d01010b0500302e3110300e060355040b1307462d44726f6964311a3018060355040313116e69786f732d776f726b73746174696f6e3020170d3233303730333138353930315a180f32303530313131383138353930315a302e3110300e060355040b1307462d44726f6964311a3018060355040313116e69786f732d776f726b73746174696f6e30820222300d06092a864886f70d01010105000382020f003082020a0282020100dad9d798a36ae722b717132f0f259acd7558808bde3f111606c33d0a60d202a453e5052d37857d72d93a762110c7270d2f26705f5c5229609689078f3c67c46edf7b4c2586e09e2e0d8d0a81432730b1c3fc84a0ee8dedde3c05d670b47fbe9a796fbf7585b5072d945c1d1cca72c140adb61a9b607bd1311bea0f69c966f509e70de16c33200a6d18cda1bcded7144b592eaedca6c2edfed70d8e2ca600b6936786b888970e980c900a077aafa089f2d0363e90abd2eff1c2c4c2613f1e03112b0b8f3edb5761daf08210140071e4ff788c54a7165eee60bb6bb3adda37d6db3ebd0d9e8e9f36c7451955eb5f3a1ee60b6e2657536d6db5ba4a1fc05a870e3a920ab32facc2f7b930c7dfb536408170278b8fd8d5634bd39f9d98536c25940d2ea746f3d016c7f21aea633cbdb6d1af9784e58b3757a4abc341126f52bb6d714e7963fa4ef977452b0242b148cf106f3ebb49b0b9d18872954b3aa2542bf9a40de561d43cdb5b26689f7f8c3abb5b468530c08ec36dcb66a04c14a252b3e2f0dbf8118f2326dd81cedd48897a3432191608f355b6ca960e06119db11a391ed94a35205bd716b5446cbf7c84e8aca3a35821525296be3ce0f59d818421a2fe4b825ad0bf03d0ac021fba673a2bb30558927e9df459a800f79d00751cd067acb7060a7ca5ff14f44061c7905a230d8fd81f396baeb26077a0a4863780f03af69f0203010001a321301f301d0603551d0e04160414c2bb49a71c5c7bbeaaa5258838b764fb2fc71231300d06092a864886f70d01010b05000382020100ad6b37a6a57e83c9b6319193c78e302af3d45fad7dba40b7ec3c4d945ce3339387f47541c8cb69adac37e856ea20e5cf282edc522049e418b891a43d390c5a88e90f61bf7835984153ab18e9a88bb04b15e7fddfe07ed23b205aecc8e5325a0b1fc558decbb5666c06bec3f300f8dfacaf30bff73d3d26c84683694ed5977486397c5571cd1e7c5e821cce5de61a370a94bf5472032fd4b35ea03b439f932f2eea0b96310a8f8cf5fb6b437fa61c31958417fb4afb71aa613c95860ac77762af2985af4d29239fc0efb1db9875bee857fe6e34c2a3d6489b0ac5190c42647ce8f3adc8b5d4f4752f50ca698bc214fbcbeb26c0aff5b4982f467d20032998fef5f3949e04d20de8aea496450e92f62e94710dd31c41b5c8044ef8c48a6c69da51faf8fe24c18ae0d5e9bd9d86433b50cbb97c3733d707b05e579d9a250af80b592920e38e6c92e53fecfa3b675b1b856de0b5d70b76c442ac03b3219e3797a151e8e523f1d12492e58f87f128f2f44c6019d07be2df9a3f9a0f052d7389139e84273b303ea8652d34451b55409bac7d8c6ae30396fd237281aa0aefdadd1e4cb938440a651f981e1eb1126001fb0743b7b30e635567b96f566d1c852e175f28e3af680242f43b8a2b9fbbd0cc002e4ae5198d13b793ae8a081c7bcc7dd49c817f478cdf2605abf079adb1d0558a565028c4e2a9cfcb4d0e5a75117f13e6af16e4" timestamp="1688499846" url="https://raw.githubusercontent.com/alt-droid/alt-droid-foss/fdroid/repo" version="20002">
 		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin using the tools on https://gitlab.com/fdroid.</description>
 	</repo>
 	<application id="org.thecodedeposit.aerofoil">
 		<id>org.thecodedeposit.aerofoil</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Aerofoil</name>
 		<summary>Port of Glider PRO, the classic Macintosh paper airplane game</summary>
 		<icon>org.thecodedeposit.aerofoil.16.png</icon>
@@ -28,7 +28,7 @@
 			<size>30725813</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>1bca38893484c037beaa85c4e3bcec45</sig>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -36,8 +36,8 @@
 	</application>
 	<application id="dev.alchemix.bestagon.BestagonDefence">
 		<id>dev.alchemix.bestagon.BestagonDefence</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Bestagon Defence</name>
 		<summary>A tower defence game of hexagons with roguelike elements. Made using Unity and Inkscape</summary>
 		<icon>dev.alchemix.bestagon.BestagonDefence.1.png</icon>
@@ -59,7 +59,7 @@
 			<size>67863154</size>
 			<sdkver>22</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>133dc403c5575ddfab24463991c465ef</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,POST_NOTIFICATIONS</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
@@ -67,8 +67,8 @@
 	</application>
 	<application id="com.cytopia.cytopia">
 		<id>com.cytopia.cytopia</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Cytopia</name>
 		<summary>A city building simulation game</summary>
 		<desc>No description available</desc>
@@ -89,7 +89,7 @@
 			<size>68732941</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>2370bb1cde6605a3b27936c2d54fc600</sig>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="22" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -99,8 +99,8 @@
 	</application>
 	<application id="air.air.Ending">
 		<id>air.air.Ending</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Ending</name>
 		<summary>Roguelike puzzle game </summary>
 		<icon>air.air.Ending.2000000.png</icon>
@@ -122,7 +122,7 @@
 			<size>10231703</size>
 			<sdkver>8</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>cb3c3bfd19d93455d49b2a70e27a744b</sig>
 			<permissions>INTERNET</permissions>
 			<nativecode>armeabi-v7a</nativecode>
@@ -131,8 +131,8 @@
 	</application>
 	<application id="com.philj56.gbcc.debug">
 		<id>com.philj56.gbcc.debug</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>GBCC (Debug)</name>
 		<summary>Gameboy Color Emulator</summary>
 		<icon>com.philj56.gbcc.debug.41.png</icon>
@@ -154,7 +154,7 @@
 			<size>8064149</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>33</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>0f163d65eed3684e21933efe3e84bdcc</sig>
 			<permissions>CAMERA,VIBRATE,com.philj56.gbcc.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -163,8 +163,8 @@
 	</application>
 	<application id="com.centdemeern1.HaachamaWare">
 		<id>com.centdemeern1.HaachamaWare</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>HaachamaWare</name>
 		<summary>HaachamaWare: The Game!</summary>
 		<desc>No description available</desc>
@@ -185,15 +185,15 @@
 			<size>42427706</size>
 			<sdkver>18</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>f58cdd3ae65331f472c9b90c46d1de64</sig>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
 		</package>
 	</application>
 	<application id="fi.skyjake.lagrange">
 		<id>fi.skyjake.lagrange</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Lagrange</name>
 		<summary>A Beautiful Gemini Client</summary>
 		<desc>No description available</desc>
@@ -214,7 +214,7 @@
 			<size>19465760</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>d8fcc11ea380908081c397965229afbb</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="22" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -224,8 +224,8 @@
 	</application>
 	<application id="com.baronkiko.launcherhijack">
 		<id>com.baronkiko.launcherhijack</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Launcher Hijack</name>
 		<summary>A small Android application to circumvent the default Amazon Fire launcher</summary>
 		<icon>com.baronkiko.launcherhijack.43.png</icon>
@@ -247,15 +247,15 @@
 			<size>1590776</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>2462279381abe49db7dc6baaa90499ed</sig>
 			<permissions>BIND_ACCESSIBILITY_SERVICE,INSTALL_PACKAGES,RECEIVE_BOOT_COMPLETED,SYSTEM_ALERT_WINDOW</permissions>
 		</package>
 	</application>
 	<application id="io.anuke.mindustry.classic">
 		<id>io.anuke.mindustry.classic</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Mindustry Classic</name>
 		<summary>The classic version of Mindustry</summary>
 		<icon>io.anuke.mindustry.classic.82.png</icon>
@@ -277,16 +277,46 @@
 			<size>17938317</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>53171090a7ef76fa6b133dccb06e6db0</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
+	<application id="com.junongx.profectus4">
+		<id>com.junongx.profectus4</id>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
+		<name>profectus.4</name>
+		<summary>Accelerometer-based experimental narrative project </summary>
+		<icon>com.junongx.profectus4.5.png</icon>
+		<desc>No description available</desc>
+		<license>MIT</license>
+		<categories>Alt-Droid,Games</categories>
+		<category>Alt-Droid</category>
+		<web>https://junongx.itch.io/profectus4</web>
+		<source>https://github.com/JunoNgx/maeko</source>
+		<tracker>https://github.com/JunoNgx/maeko/issues</tracker>
+		<author>JunoNgx</author>
+		<marketversion>1062</marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.0.6.2</version>
+			<versioncode>5</versioncode>
+			<apkname>com.junongx.profectus4_5.apk</apkname>
+			<hash type="sha256">568233dda9e8ea6c29f07095b6af3b3f1fc19687108f90057aea0e23bf2c0106</hash>
+			<size>4839661</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>12</targetSdkVersion>
+			<added>2023-07-04</added>
+			<sig>539ca6214755be19d50e5e516b39b959</sig>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+	</application>
 	<application id="com.rexuiz.app">
 		<id>com.rexuiz.app</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Rexuiz</name>
 		<summary>A pure, fast first-person shooter</summary>
 		<icon>com.rexuiz.app.1.png</icon>
@@ -308,7 +338,7 @@
 			<size>15357373</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>21c3850b1c92b2b81d71fda6f9de651f</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -316,8 +346,8 @@
 	</application>
 	<application id="com.holypangolin.Rukavychka">
 		<id>com.holypangolin.Rukavychka</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Rukavychka</name>
 		<summary>Find the mouse (with dragon) and the door to Rukavychka (with fox) together, then lead the mouse to the door</summary>
 		<icon>com.holypangolin.Rukavychka.3000105.png</icon>
@@ -339,7 +369,7 @@
 			<size>18634315</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>d02be65328351b63427550cfc006390e</sig>
 			<nativecode>arm64-v8a</nativecode>
 		</package>
@@ -351,15 +381,15 @@
 			<size>18478699</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>d02be65328351b63427550cfc006390e</sig>
 			<nativecode>armeabi-v7a</nativecode>
 		</package>
 	</application>
 	<application id="com.bilboldev.pixeldungeonskills">
 		<id>com.bilboldev.pixeldungeonskills</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Skillful Pixel Dungeon</name>
 		<summary>A roguelike RPG game with 4 classes, 25 levels and 5 unique bosses</summary>
 		<icon>com.bilboldev.pixeldungeonskills.129.png</icon>
@@ -381,15 +411,15 @@
 			<size>6864466</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>ad466e6a8a373a26e700f1362a52a3ef</sig>
 			<permissions>VIBRATE,com.android.vending.BILLING</permissions>
 		</package>
 	</application>
 	<application id="com.frappagames.snake">
 		<id>com.frappagames.snake</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Snake</name>
 		<summary>A retro-style remake of the Snake 2 game developped in JAVA with LibGDX.</summary>
 		<icon>com.frappagames.snake.1.png</icon>
@@ -411,15 +441,15 @@
 			<size>4834895</size>
 			<sdkver>8</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>d4cc7393cf5f21350fdf3b87f7ffbbff</sig>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
 	<application id="com.trashboxbobylev.summoningpixeldungeon">
 		<id>com.trashboxbobylev.summoningpixeldungeon</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Summoning Pixel Dungeon</name>
 		<summary>The expansion for Shattered Pixel Dungeon</summary>
 		<icon>com.trashboxbobylev.summoningpixeldungeon.425.png</icon>
@@ -441,7 +471,7 @@
 			<size>9120044</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>a0accb63a5d306fe5e0b1ee2093ff75f</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -449,8 +479,8 @@
 	</application>
 	<application id="org.godotengine.supertuxclassic">
 		<id>org.godotengine.supertuxclassic</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>SuperTux Classic</name>
 		<summary>A remake of SuperTux Milestone 1 (versions 0.1.0 - 0.1.4) created from the ground up in Godot! </summary>
 		<desc>No description available</desc>
@@ -471,7 +501,7 @@
 			<size>79949913</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>50d4284046586051e8996f195493e6b4</sig>
 			<permissions>READ_USER_DICTIONARY,SET_ORIENTATION,WRITE_USER_DICTIONARY</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
@@ -479,8 +509,8 @@
 	</application>
 	<application id="harmonyhoney.tinycrate">
 		<id>harmonyhoney.tinycrate</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Tiny Crate</name>
 		<summary>Crate Chucking Puzzle Platformer Game</summary>
 		<desc>No description available</desc>
@@ -501,15 +531,15 @@
 			<size>29643324</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>2ff634522451ca3e3dbb5a23c1748d5d</sig>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
 		</package>
 	</application>
 	<application id="com.rossonerd.twointerviewees">
 		<id>com.rossonerd.twointerviewees</id>
-		<added>2023-07-03</added>
-		<lastupdated>2023-07-03</lastupdated>
+		<added>2023-07-04</added>
+		<lastupdated>2023-07-04</lastupdated>
 		<name>Two Interviewees</name>
 		<summary>Two Interviewees, a short open-source visual novel about the gender gap</summary>
 		<icon>com.rossonerd.twointerviewees.140.png</icon>
@@ -531,7 +561,7 @@
 			<size>42331407</size>
 			<sdkver>10</sdkver>
 			<targetSdkVersion>14</targetSdkVersion>
-			<added>2023-07-03</added>
+			<added>2023-07-04</added>
 			<sig>49971abf04ff4d601e63e6576f6380eb</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi,x86</nativecode>

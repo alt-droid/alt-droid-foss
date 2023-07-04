@@ -1,0 +1,220 @@
+{
+  "repo": {
+    "timestamp": 1688499846000
+  },
+  "packages": {
+    "air.air.Ending": {
+      "metadata": {
+        "added": 1688499834000,
+        "lastUpdated": 1688499834000
+      },
+      "versions": {
+        "b99cd7fc605f6fd6429b63cfbae983a304bc1f3775ef5992200866aa0fcb0109": {
+          "added": 1688499834000
+        }
+      }
+    },
+    "com.baronkiko.launcherhijack": {
+      "metadata": {
+        "added": 1688499835000,
+        "lastUpdated": 1688499835000
+      },
+      "versions": {
+        "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4": {
+          "added": 1688499835000
+        }
+      }
+    },
+    "com.bilboldev.pixeldungeonskills": {
+      "metadata": {
+        "added": 1688499835000,
+        "lastUpdated": 1688499835000
+      },
+      "versions": {
+        "e199cc153d6288af0b8bf5255a6a22259a9fb310acb6768a73de0ccede2ccf62": {
+          "added": 1688499835000
+        }
+      }
+    },
+    "com.centdemeern1.HaachamaWare": {
+      "metadata": {
+        "added": 1688499836000,
+        "lastUpdated": 1688499836000
+      },
+      "versions": {
+        "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d": {
+          "added": 1688499836000
+        }
+      }
+    },
+    "com.cytopia.cytopia": {
+      "metadata": {
+        "added": 1688499837000,
+        "lastUpdated": 1688499837000
+      },
+      "versions": {
+        "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce": {
+          "added": 1688499837000
+        }
+      }
+    },
+    "com.frappagames.snake": {
+      "metadata": {
+        "added": 1688499837000,
+        "lastUpdated": 1688499837000
+      },
+      "versions": {
+        "7bf8ce92c8423673cbd7488f200dbde281fd6e3be72659042bb2875c5be3c1ce": {
+          "added": 1688499837000
+        }
+      }
+    },
+    "com.holypangolin.Rukavychka": {
+      "metadata": {
+        "added": 1688499837000,
+        "lastUpdated": 1688499837000
+      },
+      "versions": {
+        "aa59ce8e6064db36f2874883a3b073de03d68b97a3a486874137a4d34de71a2d": {
+          "added": 1688499837000
+        },
+        "5b22f5fc1b9a502554c0baaeb57cccb88c7c8aaafe601b460b8fe7d0c21a45bb": {
+          "added": 1688499837000
+        }
+      }
+    },
+    "com.junongx.profectus4": {
+      "metadata": {
+        "added": 1688499837000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/JunoNgx/maeko/issues",
+        "lastUpdated": 1688499837000,
+        "license": "MIT",
+        "sourceCode": "https://github.com/JunoNgx/maeko",
+        "webSite": "https://junongx.itch.io/profectus4",
+        "authorName": "JunoNgx",
+        "summary": {
+          "en-US": "Accelerometer-based experimental narrative project "
+        }
+      },
+      "versions": {
+        "568233dda9e8ea6c29f07095b6af3b3f1fc19687108f90057aea0e23bf2c0106": {
+          "added": 1688499837000
+        }
+      }
+    },
+    "com.philj56.gbcc.debug": {
+      "metadata": {
+        "added": 1688499838000,
+        "lastUpdated": 1688499838000
+      },
+      "versions": {
+        "03819e19c986dadce377b9fe1a1927643116697385632e83f85af19768ae3e78": {
+          "added": 1688499838000
+        }
+      }
+    },
+    "com.rexuiz.app": {
+      "metadata": {
+        "added": 1688499839000,
+        "lastUpdated": 1688499839000
+      },
+      "versions": {
+        "d4060a47f781b75999bed88ddfdefd320a85d06d4d1dfd5e6027451d185e6318": {
+          "added": 1688499839000
+        }
+      }
+    },
+    "com.rossonerd.twointerviewees": {
+      "metadata": {
+        "added": 1688499839000,
+        "lastUpdated": 1688499839000
+      },
+      "versions": {
+        "64150201389ec235b56042c502abe60bf15207817213c3fa96bc10ec0bd2058f": {
+          "added": 1688499839000
+        }
+      }
+    },
+    "com.trashboxbobylev.summoningpixeldungeon": {
+      "metadata": {
+        "added": 1688499839000,
+        "lastUpdated": 1688499839000
+      },
+      "versions": {
+        "660dc481ed5f603b6d46bdaa32de6248654c9c35d526c114ae4a14e2abd328a5": {
+          "added": 1688499839000
+        }
+      }
+    },
+    "dev.alchemix.bestagon.BestagonDefence": {
+      "metadata": {
+        "added": 1688499841000,
+        "lastUpdated": 1688499841000
+      },
+      "versions": {
+        "44f92dd0fab5c864435091df02392efd471a3737b67545075d25d2bdfb6d5c77": {
+          "added": 1688499841000
+        }
+      }
+    },
+    "fi.skyjake.lagrange": {
+      "metadata": {
+        "added": 1688499841000,
+        "lastUpdated": 1688499841000
+      },
+      "versions": {
+        "fd4294e437f174bc59c1a48c732f6a8f26714bee9fdf10ad54cdaeca473f8b55": {
+          "added": 1688499841000
+        }
+      }
+    },
+    "harmonyhoney.tinycrate": {
+      "metadata": {
+        "added": 1688499841000,
+        "lastUpdated": 1688499841000
+      },
+      "versions": {
+        "a97d5239f5bcd5724f5e275b84d14021d130bd56c7dcd425f9ff750f6eeb3175": {
+          "added": 1688499841000
+        }
+      }
+    },
+    "io.anuke.mindustry.classic": {
+      "metadata": {
+        "added": 1688499842000,
+        "lastUpdated": 1688499842000
+      },
+      "versions": {
+        "d05c88daf6eae6cb6a2bce511516f6f2588834b793205e3a58453cf8b702af03": {
+          "added": 1688499842000
+        }
+      }
+    },
+    "org.godotengine.supertuxclassic": {
+      "metadata": {
+        "added": 1688499843000,
+        "lastUpdated": 1688499843000
+      },
+      "versions": {
+        "5bbf2b5cd6efd6674c786befb8dd4a7b20756fc1817edc0477eb255a1f6b7d0e": {
+          "added": 1688499843000
+        }
+      }
+    },
+    "org.thecodedeposit.aerofoil": {
+      "metadata": {
+        "added": 1688499843000,
+        "lastUpdated": 1688499843000
+      },
+      "versions": {
+        "69ef74fb7d957df8726b6235f0c1bba5e83bbbfd12f2679d07a3edbb35b9cc24": {
+          "added": 1688499843000
+        }
+      }
+    }
+  }
+}

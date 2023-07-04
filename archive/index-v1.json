@@ -1,7 +1,7 @@
 {
   "repo": {
-    "timestamp": 1688412110000,
-    "version": 20001,
+    "timestamp": 1688499843000,
+    "version": 20002,
     "name": "Alt-Droid FOSS Archive",
     "icon": "icon.png",
     "description": "The repository of older versions of packages from the main FOSS repository.",

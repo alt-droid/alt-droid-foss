@@ -1,0 +1,20 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "Alt-Droid FOSS Archive"
+    },
+    "description": {
+      "en-US": "The repository of older versions of packages from the main FOSS repository."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "40d06ed06ae70b900cf0c64e261941aa221595fe2159954eb9fc34ca4f4d2beb",
+        "size": 991
+      }
+    },
+    "address": "https://f-droid.org/archive",
+    "timestamp": 1688499843000
+  },
+  "packages": {}
+}

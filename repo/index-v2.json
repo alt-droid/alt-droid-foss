@@ -1,0 +1,1195 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "Alt-Droid FOSS"
+    },
+    "description": {
+      "en-US": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin using the tools on https://gitlab.com/fdroid."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "40d06ed06ae70b900cf0c64e261941aa221595fe2159954eb9fc34ca4f4d2beb",
+        "size": 991
+      }
+    },
+    "address": "https://raw.githubusercontent.com/alt-droid/alt-droid-foss/fdroid/repo",
+    "timestamp": 1688499846000
+  },
+  "packages": {
+    "air.air.Ending": {
+      "metadata": {
+        "added": 1688499834000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/st33d/Ending/issues",
+        "lastUpdated": 1688499834000,
+        "license": "GPL-2.0",
+        "sourceCode": "https://github.com/st33d/Ending",
+        "webSite": "https://st33d.itch.io/ending",
+        "authorName": "st33d",
+        "name": {
+          "en-US": "Ending"
+        },
+        "summary": {
+          "en-US": "Roguelike puzzle game "
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/air.air.Ending.2000000.png",
+            "sha256": "b014f6215b74d461d47c1cd15d4fdfa9023e60fbcc08f94d65b04aaef2b35ab1",
+            "size": 1043
+          }
+        },
+        "preferredSigner": "c55b0a4cc7d14dca288d19e250d8e31d83a580ab28ed3ece3b6008be3f0be0e4"
+      },
+      "versions": {
+        "b99cd7fc605f6fd6429b63cfbae983a304bc1f3775ef5992200866aa0fcb0109": {
+          "added": 1688499834000,
+          "file": {
+            "name": "/air.air.Ending_2000000.apk",
+            "sha256": "b99cd7fc605f6fd6429b63cfbae983a304bc1f3775ef5992200866aa0fcb0109",
+            "size": 10231703
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "2",
+            "versionCode": 2000000,
+            "features": [
+              {
+                "name": "android.hardware.touchscreen.multitouch"
+              }
+            ],
+            "usesSdk": {
+              "minSdkVersion": 8,
+              "targetSdkVersion": 27
+            },
+            "signer": {
+              "sha256": [
+                "c55b0a4cc7d14dca288d19e250d8e31d83a580ab28ed3ece3b6008be3f0be0e4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.baronkiko.launcherhijack": {
+      "metadata": {
+        "added": 1688499835000,
+        "categories": [
+          "Alt-Droid",
+          "System",
+          "Theming"
+        ],
+        "issueTracker": "https://github.com/BaronKiko/LauncherHijack/issues",
+        "lastUpdated": 1688499835000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/BaronKiko/LauncherHijack",
+        "webSite": "https://github.com/BaronKiko/LauncherHijack",
+        "authorName": "BaronKiko",
+        "name": {
+          "en-US": "Launcher Hijack"
+        },
+        "summary": {
+          "en-US": "A small Android application to circumvent the default Amazon Fire launcher"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.baronkiko.launcherhijack.43.png",
+            "sha256": "22c44aea3af9f486dc290a49df348b70f3fb68ad3dd9e849c2f681b42d96b0d1",
+            "size": 5017
+          }
+        },
+        "preferredSigner": "8806ca47172ef2f653ac2dc35d01cbc87af542c8072247ad686526788e172fbb"
+      },
+      "versions": {
+        "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4": {
+          "added": 1688499835000,
+          "file": {
+            "name": "/com.baronkiko.launcherhijack_43.apk",
+            "sha256": "d5346fb6d0a28b33e97448a49f34a3093d6f7068a10cc43ba3b4b8313d5a1bd4",
+            "size": 1590776
+          },
+          "manifest": {
+            "versionName": "4.0.3",
+            "versionCode": 43,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 28
+            },
+            "signer": {
+              "sha256": [
+                "8806ca47172ef2f653ac2dc35d01cbc87af542c8072247ad686526788e172fbb"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.BIND_ACCESSIBILITY_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.INSTALL_PACKAGES"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.bilboldev.pixeldungeonskills": {
+      "metadata": {
+        "added": 1688499835000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/bilbolPrime/SPD/issues",
+        "lastUpdated": 1688499835000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/bilbolPrime/SPD",
+        "webSite": "https://github.com/bilbolPrime/SPD",
+        "authorName": "BilbolDev",
+        "name": {
+          "en-US": "Skillful Pixel Dungeon"
+        },
+        "summary": {
+          "en-US": "A roguelike RPG game with 4 classes, 25 levels and 5 unique bosses"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.bilboldev.pixeldungeonskills.129.png",
+            "sha256": "45c93dae93086b63f27965ceaf18167793bc5b239733f679d33aec6f3d592804",
+            "size": 1589
+          }
+        },
+        "preferredSigner": "92d688a0bf5a86d2a2bebeb439800ee6b2ac4b59df3e3d40facd39bec56e6c26"
+      },
+      "versions": {
+        "e199cc153d6288af0b8bf5255a6a22259a9fb310acb6768a73de0ccede2ccf62": {
+          "added": 1688499835000,
+          "file": {
+            "name": "/com.bilboldev.pixeldungeonskills_129.apk",
+            "sha256": "e199cc153d6288af0b8bf5255a6a22259a9fb310acb6768a73de0ccede2ccf62",
+            "size": 6864466
+          },
+          "manifest": {
+            "versionName": "0.5.1",
+            "versionCode": 129,
+            "usesSdk": {
+              "minSdkVersion": 14,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "92d688a0bf5a86d2a2bebeb439800ee6b2ac4b59df3e3d40facd39bec56e6c26"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.centdemeern1.HaachamaWare": {
+      "metadata": {
+        "added": 1688499836000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/CenTdemeern1/HaachamaWare/issues",
+        "lastUpdated": 1688499836000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/CenTdemeern1/HaachamaWare",
+        "webSite": "https://centdemeern1.itch.io/haachamaware",
+        "authorName": "CenTdemeern1",
+        "name": {
+          "en-US": "HaachamaWare"
+        },
+        "summary": {
+          "en-US": "HaachamaWare: The Game!"
+        },
+        "preferredSigner": "1b83c49cf87b871633483373b0f13a14b48d60a2ae9cd4e1c645aad5679e9fc6"
+      },
+      "versions": {
+        "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d": {
+          "added": 1688499836000,
+          "file": {
+            "name": "/com.centdemeern1.HaachamaWare_1.apk",
+            "sha256": "5b3d3172e0e75163fdcc30285178394ac1d2f9a035236afb9e7026e6a44ac55d",
+            "size": 42427706
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "0.1",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 18,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "1b83c49cf87b871633483373b0f13a14b48d60a2ae9cd4e1c645aad5679e9fc6"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.cytopia.cytopia": {
+      "metadata": {
+        "added": 1688499837000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/CytopiaTeam/Cytopia/issues",
+        "lastUpdated": 1688499837000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/CytopiaTeam/Cytopia",
+        "webSite": "https://www.cytopia.net/",
+        "authorName": "CytopiaTeam",
+        "name": {
+          "en-US": "Cytopia"
+        },
+        "summary": {
+          "en-US": "A city building simulation game"
+        },
+        "preferredSigner": "9e6e56517395e96261c829beb3d6f938167d65b8c943def14a63eb71b7a1b2fe"
+      },
+      "versions": {
+        "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce": {
+          "added": 1688499837000,
+          "file": {
+            "name": "/com.cytopia.cytopia_1.apk",
+            "sha256": "212039bd670a09459e1512f6ef9f934fea4425d4be2880952c0e43a132eaa3ce",
+            "size": 68732941
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86"
+            ],
+            "versionName": "0.2.1",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 16,
+              "targetSdkVersion": 32
+            },
+            "signer": {
+              "sha256": [
+                "9e6e56517395e96261c829beb3d6f938167d65b8c943def14a63eb71b7a1b2fe"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 22
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 22
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.frappagames.snake": {
+      "metadata": {
+        "added": 1688499837000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/Frappagames/snake/issues",
+        "lastUpdated": 1688499837000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/Frappagames/snake",
+        "webSite": "https://frappagames.itch.io/snake",
+        "authorName": "Frappagames",
+        "name": {
+          "en-US": "Snake"
+        },
+        "summary": {
+          "en-US": "A retro-style remake of the Snake 2 game developped in JAVA with LibGDX."
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.frappagames.snake.1.png",
+            "sha256": "78900b9323990fef9cdfad6d414b711f219ef8179d0dc5b067f15ee3ace56063",
+            "size": 233
+          }
+        },
+        "preferredSigner": "d460ac6abac8c24f87b0a0ce6685cc3c4f8f08e4f0a98ad3aa9c61f0e775a44c"
+      },
+      "versions": {
+        "7bf8ce92c8423673cbd7488f200dbde281fd6e3be72659042bb2875c5be3c1ce": {
+          "added": 1688499837000,
+          "file": {
+            "name": "/com.frappagames.snake_1.apk",
+            "sha256": "7bf8ce92c8423673cbd7488f200dbde281fd6e3be72659042bb2875c5be3c1ce",
+            "size": 4834895
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 8,
+              "targetSdkVersion": 25
+            },
+            "signer": {
+              "sha256": [
+                "d460ac6abac8c24f87b0a0ce6685cc3c4f8f08e4f0a98ad3aa9c61f0e775a44c"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.holypangolin.Rukavychka": {
+      "metadata": {
+        "added": 1688499837000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://gitlab.com/HolyPangolin/rukavychka/-/issues",
+        "lastUpdated": 1688499837000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://gitlab.com/HolyPangolin/rukavychka/",
+        "webSite": "https://holypangolin.itch.io/rukavychka",
+        "authorName": "holypangolin",
+        "name": {
+          "en-US": "Rukavychka"
+        },
+        "summary": {
+          "en-US": "Find the mouse (with dragon) and the door to Rukavychka (with fox) together, then lead the mouse to the door"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.holypangolin.Rukavychka.3000105.png",
+            "sha256": "3f25b989964bd3d3c2bb8130bdbcc43b281c822d3180c04f695d595e618b2a66",
+            "size": 5804
+          }
+        },
+        "preferredSigner": "2c91e7587029edea02d1f37597c18b80cf268067355b57043d7d7ab09b60afd3"
+      },
+      "versions": {
+        "aa59ce8e6064db36f2874883a3b073de03d68b97a3a486874137a4d34de71a2d": {
+          "added": 1688499837000,
+          "file": {
+            "name": "/com.holypangolin.Rukavychka_3000105.apk",
+            "sha256": "aa59ce8e6064db36f2874883a3b073de03d68b97a3a486874137a4d34de71a2d",
+            "size": 18634315
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.0",
+            "versionCode": 3000105,
+            "usesSdk": {
+              "minSdkVersion": 15,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "2c91e7587029edea02d1f37597c18b80cf268067355b57043d7d7ab09b60afd3"
+              ]
+            }
+          }
+        },
+        "5b22f5fc1b9a502554c0baaeb57cccb88c7c8aaafe601b460b8fe7d0c21a45bb": {
+          "added": 1688499837000,
+          "file": {
+            "name": "/com.holypangolin.Rukavychka_2000105.apk",
+            "sha256": "5b22f5fc1b9a502554c0baaeb57cccb88c7c8aaafe601b460b8fe7d0c21a45bb",
+            "size": 18478699
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "1.0",
+            "versionCode": 2000105,
+            "usesSdk": {
+              "minSdkVersion": 15,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "2c91e7587029edea02d1f37597c18b80cf268067355b57043d7d7ab09b60afd3"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.junongx.profectus4": {
+      "metadata": {
+        "added": 1688499837000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/JunoNgx/maeko/issues",
+        "lastUpdated": 1688499837000,
+        "license": "MIT",
+        "sourceCode": "https://github.com/JunoNgx/maeko",
+        "webSite": "https://junongx.itch.io/profectus4",
+        "authorName": "JunoNgx",
+        "name": {
+          "en-US": "profectus.4"
+        },
+        "summary": {
+          "en-US": "Accelerometer-based experimental narrative project "
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.junongx.profectus4.5.png",
+            "sha256": "c165e28f01cad8b362bb48210738f4e70ba27b8fefb84e8f10afa124d4d0bf5b",
+            "size": 605
+          }
+        },
+        "preferredSigner": "5ac4de9c4031bd12daa71046d430e57a355d142e7975f5764bb65cd853aa24f2"
+      },
+      "versions": {
+        "568233dda9e8ea6c29f07095b6af3b3f1fc19687108f90057aea0e23bf2c0106": {
+          "added": 1688499837000,
+          "file": {
+            "name": "/com.junongx.profectus4_5.apk",
+            "sha256": "568233dda9e8ea6c29f07095b6af3b3f1fc19687108f90057aea0e23bf2c0106",
+            "size": 4839661
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "1.0.6.2",
+            "versionCode": 5,
+            "usesSdk": {
+              "minSdkVersion": 10,
+              "targetSdkVersion": 12
+            },
+            "signer": {
+              "sha256": [
+                "5ac4de9c4031bd12daa71046d430e57a355d142e7975f5764bb65cd853aa24f2"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.philj56.gbcc.debug": {
+      "metadata": {
+        "added": 1688499838000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/philj56/gbcc-android/issues",
+        "lastUpdated": 1688499838000,
+        "license": "MIT",
+        "sourceCode": "https://github.com/philj56/gbcc-android/",
+        "webSite": "https://github.com/philj56/gbcc-android/",
+        "authorName": "philj56",
+        "name": {
+          "en-US": "GBCC (Debug)"
+        },
+        "summary": {
+          "en-US": "Gameboy Color Emulator"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.philj56.gbcc.debug.41.png",
+            "sha256": "5198a8ad8275fcd15fbb74aa6aacd34a5895bd3a376f48bf154afc4378a66810",
+            "size": 1962
+          }
+        },
+        "preferredSigner": "4ffdd9e5e2076fb03d153d6312556a8b984a349515b281d743e44d74239e352c"
+      },
+      "versions": {
+        "03819e19c986dadce377b9fe1a1927643116697385632e83f85af19768ae3e78": {
+          "added": 1688499838000,
+          "file": {
+            "name": "/com.philj56.gbcc.debug_41.apk",
+            "sha256": "03819e19c986dadce377b9fe1a1927643116697385632e83f85af19768ae3e78",
+            "size": 8064149
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "beta41",
+            "versionCode": 41,
+            "features": [
+              {
+                "name": "android.hardware.screen.landscape"
+              }
+            ],
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "4ffdd9e5e2076fb03d153d6312556a8b984a349515b281d743e44d74239e352c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "com.philj56.gbcc.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.rexuiz.app": {
+      "metadata": {
+        "added": 1688499839000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://sourceforge.net/projects/rexuiz/support",
+        "lastUpdated": 1688499839000,
+        "license": "GPL-2.0",
+        "sourceCode": "https://sourceforge.net/projects/rexuiz/",
+        "webSite": "https://rexuiz.com/",
+        "authorName": "Rexuiz Team",
+        "name": {
+          "en-US": "Rexuiz"
+        },
+        "summary": {
+          "en-US": "A pure, fast first-person shooter"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.rexuiz.app.1.png",
+            "sha256": "9073fff3ef3b7a016ebd65a4e30ee094e849b4f41d1cc0cafd1889a10e7f9421",
+            "size": 4319
+          }
+        },
+        "preferredSigner": "06e651550b04dd1bad75ac9b41a2cbe656bf682a344d439b8efcc6dc32f14de6"
+      },
+      "versions": {
+        "d4060a47f781b75999bed88ddfdefd320a85d06d4d1dfd5e6027451d185e6318": {
+          "added": 1688499839000,
+          "file": {
+            "name": "/com.rexuiz.app_1.apk",
+            "sha256": "d4060a47f781b75999bed88ddfdefd320a85d06d4d1dfd5e6027451d185e6318",
+            "size": 15357373
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 14,
+              "targetSdkVersion": 26
+            },
+            "signer": {
+              "sha256": [
+                "06e651550b04dd1bad75ac9b41a2cbe656bf682a344d439b8efcc6dc32f14de6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.rossonerd.twointerviewees": {
+      "metadata": {
+        "added": 1688499839000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/maurovanetti/two-interviewees/issues",
+        "lastUpdated": 1688499839000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/maurovanetti/two-interviewees",
+        "webSite": "https://maurovanetti.itch.io/2i",
+        "authorName": "maurovanetti",
+        "name": {
+          "en-US": "Two Interviewees"
+        },
+        "summary": {
+          "en-US": "Two Interviewees, a short open-source visual novel about the gender gap"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.rossonerd.twointerviewees.140.png",
+            "sha256": "9718b4016a0706057357cd633df5e663b6ef9e4f0664e336b6c9b78fe3a8baf2",
+            "size": 3399
+          }
+        },
+        "preferredSigner": "addeffa42862ee5448c2e100bc7252d4f00f2907dc7a576200996631ace53dee"
+      },
+      "versions": {
+        "64150201389ec235b56042c502abe60bf15207817213c3fa96bc10ec0bd2058f": {
+          "added": 1688499839000,
+          "file": {
+            "name": "/com.rossonerd.twointerviewees_140.apk",
+            "sha256": "64150201389ec235b56042c502abe60bf15207817213c3fa96bc10ec0bd2058f",
+            "size": 42331407
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi",
+              "x86"
+            ],
+            "versionName": "1.4",
+            "versionCode": 140,
+            "features": [
+              {
+                "name": "android.hardware.touchscreen"
+              }
+            ],
+            "usesSdk": {
+              "minSdkVersion": 10,
+              "targetSdkVersion": 14
+            },
+            "signer": {
+              "sha256": [
+                "addeffa42862ee5448c2e100bc7252d4f00f2907dc7a576200996631ace53dee"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.trashboxbobylev.summoningpixeldungeon": {
+      "metadata": {
+        "added": 1688499839000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon/issues",
+        "lastUpdated": 1688499839000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon",
+        "webSite": "https://trashboxbobylev.itch.io/summoning-pixel-dungeon",
+        "authorName": "TrashboxBobylev",
+        "name": {
+          "en-US": "Summoning Pixel Dungeon"
+        },
+        "summary": {
+          "en-US": "The expansion for Shattered Pixel Dungeon"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.trashboxbobylev.summoningpixeldungeon.425.png",
+            "sha256": "bb498c129de421794c106a547086bc50860f0c93ad76a372950cab5e22b4d29b",
+            "size": 2058
+          }
+        },
+        "preferredSigner": "18076f83c74d847df6e824b7649c407a206ccfe1d18aea93877c056012fd5ddd"
+      },
+      "versions": {
+        "660dc481ed5f603b6d46bdaa32de6248654c9c35d526c114ae4a14e2abd328a5": {
+          "added": 1688499839000,
+          "file": {
+            "name": "/com.trashboxbobylev.summoningpixeldungeon_425.apk",
+            "sha256": "660dc481ed5f603b6d46bdaa32de6248654c9c35d526c114ae4a14e2abd328a5",
+            "size": 9120044
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.2.4a-e6d90b7",
+            "versionCode": 425,
+            "usesSdk": {
+              "minSdkVersion": 15,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "18076f83c74d847df6e824b7649c407a206ccfe1d18aea93877c056012fd5ddd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.READ_LOGS"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "dev.alchemix.bestagon.BestagonDefence": {
+      "metadata": {
+        "added": 1688499841000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/Greenfoot5/Bestagon-Defence/issues",
+        "lastUpdated": 1688499841000,
+        "license": "CC-BY-4.0",
+        "sourceCode": "https://github.com/Greenfoot5/Bestagon-Defence",
+        "webSite": "https://greenfoot5.itch.io/bestagon-defence",
+        "authorName": "Greenfoot5",
+        "name": {
+          "en-US": "Bestagon Defence"
+        },
+        "summary": {
+          "en-US": "A tower defence game of hexagons with roguelike elements. Made using Unity and Inkscape"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/dev.alchemix.bestagon.BestagonDefence.1.png",
+            "sha256": "6344af9c5056143d8283aca0f74b70dd4de9c99ce43d2517a36fdee21a779320",
+            "size": 2756
+          }
+        },
+        "preferredSigner": "bdac77f14f9c3ff697f8bf73792701f0dad1f2dd76dc0cba0f62c82a5721a131"
+      },
+      "versions": {
+        "44f92dd0fab5c864435091df02392efd471a3737b67545075d25d2bdfb6d5c77": {
+          "added": 1688499841000,
+          "file": {
+            "name": "/dev.alchemix.bestagon.BestagonDefence_1.apk",
+            "sha256": "44f92dd0fab5c864435091df02392efd471a3737b67545075d25d2bdfb6d5c77",
+            "size": 67863154
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.1-alpha.11",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 22,
+              "targetSdkVersion": 32
+            },
+            "signer": {
+              "sha256": [
+                "bdac77f14f9c3ff697f8bf73792701f0dad1f2dd76dc0cba0f62c82a5721a131"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "fi.skyjake.lagrange": {
+      "metadata": {
+        "added": 1688499841000,
+        "categories": [
+          "Alt-Droid",
+          "Internet"
+        ],
+        "issueTracker": "https://github.com/skyjake/lagrange/issues",
+        "lastUpdated": 1688499841000,
+        "license": "BSD-2-Clause",
+        "sourceCode": "https://github.com/skyjake/lagrange",
+        "webSite": "https://gmi.skyjake.fi/lagrange/",
+        "authorName": "skyjake",
+        "name": {
+          "en-US": "Lagrange"
+        },
+        "summary": {
+          "en-US": "A Beautiful Gemini Client"
+        },
+        "preferredSigner": "3b08e8b0eb893313a38a16a93195ce68ce4f7104757950999ef5f4f1257804aa"
+      },
+      "versions": {
+        "fd4294e437f174bc59c1a48c732f6a8f26714bee9fdf10ad54cdaeca473f8b55": {
+          "added": 1688499841000,
+          "file": {
+            "name": "/fi.skyjake.lagrange_11505.apk",
+            "sha256": "fd4294e437f174bc59c1a48c732f6a8f26714bee9fdf10ad54cdaeca473f8b55",
+            "size": 19465760
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.15b17",
+            "versionCode": 11505,
+            "usesSdk": {
+              "minSdkVersion": 19,
+              "targetSdkVersion": 32
+            },
+            "signer": {
+              "sha256": [
+                "3b08e8b0eb893313a38a16a93195ce68ce4f7104757950999ef5f4f1257804aa"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 22
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 22
+              }
+            ]
+          }
+        }
+      }
+    },
+    "harmonyhoney.tinycrate": {
+      "metadata": {
+        "added": 1688499841000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/HarmonyHoney/tiny_crate/issues",
+        "lastUpdated": 1688499841000,
+        "license": "Unlicense",
+        "sourceCode": "https://github.com/HarmonyHoney/tiny_crate/",
+        "webSite": "https://harmonyhoney.itch.io/tinycrate",
+        "authorName": "HarmonyHoney",
+        "name": {
+          "en-US": "Tiny Crate"
+        },
+        "summary": {
+          "en-US": "Crate Chucking Puzzle Platformer Game"
+        },
+        "preferredSigner": "af21b99d941d5cb5244805b9af9597cf44d5f23f23333d1425d1bc0bd9a509fd"
+      },
+      "versions": {
+        "a97d5239f5bcd5724f5e275b84d14021d130bd56c7dcd425f9ff750f6eeb3175": {
+          "added": 1688499841000,
+          "file": {
+            "name": "/harmonyhoney.tinycrate_1.apk",
+            "sha256": "a97d5239f5bcd5724f5e275b84d14021d130bd56c7dcd425f9ff750f6eeb3175",
+            "size": 29643324
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 19,
+              "targetSdkVersion": 32
+            },
+            "signer": {
+              "sha256": [
+                "af21b99d941d5cb5244805b9af9597cf44d5f23f23333d1425d1bc0bd9a509fd"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "io.anuke.mindustry.classic": {
+      "metadata": {
+        "added": 1688499842000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "lastUpdated": 1688499842000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/Anuken/Mindustry-Classic",
+        "webSite": "https://anuke.itch.io/mindustry-classic",
+        "authorName": "Anuken",
+        "name": {
+          "en-US": "Mindustry Classic"
+        },
+        "summary": {
+          "en-US": "The classic version of Mindustry"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/io.anuke.mindustry.classic.82.png",
+            "sha256": "8f1a1b2b13d4aab4566c25c39a0e2c78be8ad643930a4f3dde7ffef8aec9975d",
+            "size": 2682
+          }
+        },
+        "preferredSigner": "87e2cba385052d3f7146b091a9bab1477d4a2a57bfcee4ccb92ca99b6d032bf3"
+      },
+      "versions": {
+        "d05c88daf6eae6cb6a2bce511516f6f2588834b793205e3a58453cf8b702af03": {
+          "added": 1688499842000,
+          "file": {
+            "name": "/io.anuke.mindustry.classic_82.apk",
+            "sha256": "d05c88daf6eae6cb6a2bce511516f6f2588834b793205e3a58453cf8b702af03",
+            "size": 17938317
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "classic-release-40",
+            "versionCode": 82,
+            "usesSdk": {
+              "minSdkVersion": 14,
+              "targetSdkVersion": 28
+            },
+            "signer": {
+              "sha256": [
+                "87e2cba385052d3f7146b091a9bab1477d4a2a57bfcee4ccb92ca99b6d032bf3"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "org.godotengine.supertuxclassic": {
+      "metadata": {
+        "added": 1688499843000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/Alzter/SuperTux-Classic/issues",
+        "lastUpdated": 1688499843000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/Alzter/SuperTux-Classic",
+        "webSite": "https://alzter-s.itch.io/supertux-classic",
+        "authorName": "Alzter",
+        "name": {
+          "en-US": "SuperTux Classic"
+        },
+        "summary": {
+          "en-US": "A remake of SuperTux Milestone 1 (versions 0.1.0 - 0.1.4) created from the ground up in Godot! "
+        },
+        "preferredSigner": "054ac5193526082a807f380e06de31a015e8e85d77884d073e380fd420b843b8"
+      },
+      "versions": {
+        "5bbf2b5cd6efd6674c786befb8dd4a7b20756fc1817edc0477eb255a1f6b7d0e": {
+          "added": 1688499843000,
+          "file": {
+            "name": "/org.godotengine.supertuxclassic_6.apk",
+            "sha256": "5bbf2b5cd6efd6674c786befb8dd4a7b20756fc1817edc0477eb255a1f6b7d0e",
+            "size": 79949913
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "0.4.0",
+            "versionCode": 6,
+            "usesSdk": {
+              "minSdkVersion": 19,
+              "targetSdkVersion": 32
+            },
+            "signer": {
+              "sha256": [
+                "054ac5193526082a807f380e06de31a015e8e85d77884d073e380fd420b843b8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.READ_USER_DICTIONARY"
+              },
+              {
+                "name": "android.permission.SET_ORIENTATION"
+              },
+              {
+                "name": "android.permission.WRITE_USER_DICTIONARY"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "org.thecodedeposit.aerofoil": {
+      "metadata": {
+        "added": 1688499843000,
+        "categories": [
+          "Alt-Droid",
+          "Games"
+        ],
+        "issueTracker": "https://github.com/elasota/Aerofoil/issues",
+        "lastUpdated": 1688499843000,
+        "license": "GPL-2.0",
+        "sourceCode": "https://github.com/elasota/Aerofoil",
+        "webSite": "https://galeforcegames.itch.io/aerofoil",
+        "authorName": "elasota",
+        "name": {
+          "en-US": "Aerofoil"
+        },
+        "summary": {
+          "en-US": "Port of Glider PRO, the classic Macintosh paper airplane game"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/org.thecodedeposit.aerofoil.16.png",
+            "sha256": "a36449f3197ef334ad16274e2add2f91792ce16bebcb6d212b1d6a6b67952f40",
+            "size": 1808
+          }
+        },
+        "preferredSigner": "de321a0fde85b848e5941ef6ec6858fcd6a4d494cd7cb3aec2936b51cfbc4237"
+      },
+      "versions": {
+        "69ef74fb7d957df8726b6235f0c1bba5e83bbbfd12f2679d07a3edbb35b9cc24": {
+          "added": 1688499843000,
+          "file": {
+            "name": "/org.thecodedeposit.aerofoil_16.apk",
+            "sha256": "69ef74fb7d957df8726b6235f0c1bba5e83bbbfd12f2679d07a3edbb35b9cc24",
+            "size": 30725813
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.1.2",
+            "versionCode": 16,
+            "usesSdk": {
+              "minSdkVersion": 16,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "de321a0fde85b848e5941ef6ec6858fcd6a4d494cd7cb3aec2936b51cfbc4237"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
